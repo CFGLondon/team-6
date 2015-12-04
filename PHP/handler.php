@@ -1,5 +1,7 @@
 <?php
-  if($_SERVER[''])
+  if($_SERVER['']){
+  	return true;
+  }
 
 
 ?>
