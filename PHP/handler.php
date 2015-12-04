@@ -6,12 +6,11 @@
   $dislikes = $_REQUEST['dislikes'];
   $daysArray = $_REQUEST['days'];  //Need to decide how elements will be stored in the database
 
-  $host = ''
-  $dbName = ''
-  $username = ''
-  $password = ''
+  $host = 'ec2-54-78-38-127.eu-west-1.compute.amazonaws.com'
+  $username = 'ubuntu'
+  $password = 'code4good'
 
-  $db = new mysqli($host,$username,$password,$dbName);
+  $db = new mysqli($host,$username,$password);
 
   if($db->connect_Errno > 0){
   	die('Could not connect to the database.  Error ' . $db->connect_error);
