@@ -1,24 +1,42 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Age UK Form</title>
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" type="text/css">
 </head>
 </html>
 <body>
   <div id="container">
     <div id="form">
       <form action="#">
-        <input type="text" name="name" class="input">
-        <input type="text" name="email" class="input">
-        <input type="text" name="phone" class="input">
-        <input type="text" name="likes" class="input">
-        <input type="text" name="dislikes" class="input">
-        <select name="days">
-
+        <input placeholder="Name" type="text" name="name" class="input">
+        <br />
+        <input placeholder="Email" type="text" name="email" class="input">
+        <br />
+        <input placeholder="Phone" type="text" name="phone" class="input">
+        <br />
+        <input placeholder="Likes" type="text" name="likes" class="input">
+        <br />
+        <input placeholder="Dislikes" type="text" name="dislikes" class="input">
+        <br />
+        <select name="days" multiple="multiple" size="7">
+          <option>Monday</option>
+          <option>Tuesday</option>
+          <option>Wednesday</option>
+          <option>Thursday</option>
+          <option>Friday</option>
+          <option>Saturday</option>
+          <option>Sunday</option>
         </select>
+        <br />
         <input type="submit" name="submit" value="Submit">
       </form>
     </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  	<script src="boostrap/js/bootstrap.min.js"></script>
   </div>
 </body>
 </html>
