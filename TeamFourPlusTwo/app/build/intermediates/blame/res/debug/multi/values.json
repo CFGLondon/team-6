@@ -16,10 +16,10 @@
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 64,
+                        "startOffset": 69,
                         "endLine": 10,
                         "endColumn": 19,
-                        "endOffset": 298
+                        "endOffset": 303
                     }
                 }
             },
@@ -3524,8 +3524,8 @@
                     "startLine": 223,
                     "startColumn": 4,
                     "startOffset": 28809,
-                    "endColumn": 47,
-                    "endOffset": 28852
+                    "endColumn": 52,
+                    "endOffset": 28857
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/src/main/res/values/strings.xml",
@@ -3533,8 +3533,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 47,
-                        "endOffset": 59
+                        "endColumn": 52,
+                        "endOffset": 64
                     }
                 }
             },
@@ -3542,9 +3542,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 28857,
+                    "startOffset": 28862,
                     "endColumn": 70,
-                    "endOffset": 28923
+                    "endOffset": 28928
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3561,9 +3561,9 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 28928,
+                    "startOffset": 28933,
                     "endColumn": 77,
-                    "endOffset": 29001
+                    "endOffset": 29006
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3580,9 +3580,9 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 29006,
+                    "startOffset": 29011,
                     "endColumn": 89,
-                    "endOffset": 29091
+                    "endOffset": 29096
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3599,9 +3599,9 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 29096,
+                    "startOffset": 29101,
                     "endColumn": 87,
-                    "endOffset": 29179
+                    "endOffset": 29184
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3618,9 +3618,9 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 29184,
+                    "startOffset": 29189,
                     "endColumn": 95,
-                    "endOffset": 29275
+                    "endOffset": 29280
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3637,10 +3637,10 @@
                 "to": {
                     "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 29280,
+                    "startOffset": 29285,
                     "endLine": 234,
                     "endColumn": 12,
-                    "endOffset": 29594
+                    "endOffset": 29599
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/src/main/res/values/styles.xml",
@@ -3658,10 +3658,10 @@
                 "to": {
                     "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 29599,
+                    "startOffset": 29604,
                     "endLine": 241,
                     "endColumn": 12,
-                    "endOffset": 30095
+                    "endOffset": 30100
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3679,9 +3679,9 @@
                 "to": {
                     "startLine": 242,
                     "startColumn": 4,
-                    "startOffset": 30100,
+                    "startOffset": 30105,
                     "endColumn": 88,
-                    "endOffset": 30184
+                    "endOffset": 30189
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3698,10 +3698,10 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 30189,
+                    "startOffset": 30194,
                     "endLine": 246,
                     "endColumn": 12,
-                    "endOffset": 30431
+                    "endOffset": 30436
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3719,10 +3719,10 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 30436,
+                    "startOffset": 30441,
                     "endLine": 250,
                     "endColumn": 12,
-                    "endOffset": 30712
+                    "endOffset": 30717
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3740,10 +3740,10 @@
                 "to": {
                     "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 30717,
+                    "startOffset": 30722,
                     "endLine": 255,
                     "endColumn": 12,
-                    "endOffset": 30997
+                    "endOffset": 31002
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3761,10 +3761,10 @@
                 "to": {
                     "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 31002,
+                    "startOffset": 31007,
                     "endLine": 261,
                     "endColumn": 12,
-                    "endOffset": 31390
+                    "endOffset": 31395
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3782,10 +3782,10 @@
                 "to": {
                     "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 31395,
+                    "startOffset": 31400,
                     "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 31867
+                    "endOffset": 31872
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3803,10 +3803,10 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 31872,
+                    "startOffset": 31877,
                     "endLine": 272,
                     "endColumn": 12,
-                    "endOffset": 32089
+                    "endOffset": 32094
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3824,10 +3824,10 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 32094,
+                    "startOffset": 32099,
                     "endLine": 276,
                     "endColumn": 12,
-                    "endOffset": 32311
+                    "endOffset": 32316
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3845,10 +3845,10 @@
                 "to": {
                     "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 32316,
+                    "startOffset": 32321,
                     "endLine": 281,
                     "endColumn": 12,
-                    "endOffset": 32579
+                    "endOffset": 32584
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3866,10 +3866,10 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 32584,
+                    "startOffset": 32589,
                     "endLine": 285,
                     "endColumn": 12,
-                    "endOffset": 32806
+                    "endOffset": 32811
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3887,10 +3887,10 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 32811,
+                    "startOffset": 32816,
                     "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 33036
+                    "endOffset": 33041
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3908,10 +3908,10 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 33041,
+                    "startOffset": 33046,
                     "endLine": 293,
                     "endColumn": 12,
-                    "endOffset": 33266
+                    "endOffset": 33271
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3929,10 +3929,10 @@
                 "to": {
                     "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 33271,
+                    "startOffset": 33276,
                     "endLine": 297,
                     "endColumn": 12,
-                    "endOffset": 33496
+                    "endOffset": 33501
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3950,10 +3950,10 @@
                 "to": {
                     "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 33501,
+                    "startOffset": 33506,
                     "endLine": 301,
                     "endColumn": 12,
-                    "endOffset": 33726
+                    "endOffset": 33731
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3971,10 +3971,10 @@
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 33731,
+                    "startOffset": 33736,
                     "endLine": 305,
                     "endColumn": 12,
-                    "endOffset": 33953
+                    "endOffset": 33958
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -3992,10 +3992,10 @@
                 "to": {
                     "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 33958,
+                    "startOffset": 33963,
                     "endLine": 309,
                     "endColumn": 12,
-                    "endOffset": 34192
+                    "endOffset": 34197
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4013,10 +4013,10 @@
                 "to": {
                     "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 34197,
+                    "startOffset": 34202,
                     "endLine": 313,
                     "endColumn": 12,
-                    "endOffset": 34418
+                    "endOffset": 34423
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4034,10 +4034,10 @@
                 "to": {
                     "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 34423,
+                    "startOffset": 34428,
                     "endLine": 317,
                     "endColumn": 12,
-                    "endOffset": 34663
+                    "endOffset": 34668
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4055,10 +4055,10 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 34668,
+                    "startOffset": 34673,
                     "endLine": 319,
                     "endColumn": 12,
-                    "endOffset": 34793
+                    "endOffset": 34798
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4076,10 +4076,10 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 34798,
+                    "startOffset": 34803,
                     "endLine": 321,
                     "endColumn": 12,
-                    "endOffset": 34923
+                    "endOffset": 34928
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4097,10 +4097,10 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 34928,
+                    "startOffset": 34933,
                     "endLine": 325,
                     "endColumn": 12,
-                    "endOffset": 35153
+                    "endOffset": 35158
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4118,10 +4118,10 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 35158,
+                    "startOffset": 35163,
                     "endLine": 329,
                     "endColumn": 12,
-                    "endOffset": 35401
+                    "endOffset": 35406
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4139,10 +4139,10 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 35406,
+                    "startOffset": 35411,
                     "endLine": 333,
                     "endColumn": 12,
-                    "endOffset": 35620
+                    "endOffset": 35625
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4160,10 +4160,10 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 35625,
+                    "startOffset": 35630,
                     "endLine": 338,
                     "endColumn": 12,
-                    "endOffset": 35903
+                    "endOffset": 35908
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4181,10 +4181,10 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 35908,
+                    "startOffset": 35913,
                     "endLine": 342,
                     "endColumn": 12,
-                    "endOffset": 36111
+                    "endOffset": 36116
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4202,10 +4202,10 @@
                 "to": {
                     "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 36116,
+                    "startOffset": 36121,
                     "endLine": 345,
                     "endColumn": 12,
-                    "endOffset": 36242
+                    "endOffset": 36247
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4223,10 +4223,10 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 36247,
+                    "startOffset": 36252,
                     "endLine": 349,
                     "endColumn": 12,
-                    "endOffset": 36469
+                    "endOffset": 36474
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4244,10 +4244,10 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 36474,
+                    "startOffset": 36479,
                     "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 36715
+                    "endOffset": 36720
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4265,10 +4265,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 36720,
+                    "startOffset": 36725,
                     "endLine": 357,
                     "endColumn": 12,
-                    "endOffset": 36940
+                    "endOffset": 36945
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4286,10 +4286,10 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 36945,
+                    "startOffset": 36950,
                     "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 37187
+                    "endOffset": 37192
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4307,10 +4307,10 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 37192,
+                    "startOffset": 37197,
                     "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 37408
+                    "endOffset": 37413
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4328,10 +4328,10 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 37413,
+                    "startOffset": 37418,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 37653
+                    "endOffset": 37658
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4349,10 +4349,10 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 37658,
+                    "startOffset": 37663,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 37927
+                    "endOffset": 37932
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4370,10 +4370,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 37932,
+                    "startOffset": 37937,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 38228
+                    "endOffset": 38233
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4391,10 +4391,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 38233,
+                    "startOffset": 38238,
                     "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 38552
+                    "endOffset": 38557
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4412,10 +4412,10 @@
                 "to": {
                     "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 38557,
+                    "startOffset": 38562,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 38843
+                    "endOffset": 38848
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4433,10 +4433,10 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 38848,
+                    "startOffset": 38853,
                     "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 39157
+                    "endOffset": 39162
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4454,9 +4454,9 @@
                 "to": {
                     "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 39162,
+                    "startOffset": 39167,
                     "endColumn": 136,
-                    "endOffset": 39294
+                    "endOffset": 39299
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4473,9 +4473,9 @@
                 "to": {
                     "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 39299,
+                    "startOffset": 39304,
                     "endColumn": 130,
-                    "endOffset": 39425
+                    "endOffset": 39430
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4492,9 +4492,9 @@
                 "to": {
                     "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 39430,
+                    "startOffset": 39435,
                     "endColumn": 104,
-                    "endOffset": 39530
+                    "endOffset": 39535
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4511,10 +4511,10 @@
                 "to": {
                     "startLine": 393,
                     "startColumn": 4,
-                    "startOffset": 39535,
+                    "startOffset": 39540,
                     "endLine": 395,
                     "endColumn": 12,
-                    "endOffset": 39734
+                    "endOffset": 39739
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4532,10 +4532,10 @@
                 "to": {
                     "startLine": 396,
                     "startColumn": 4,
-                    "startOffset": 39739,
+                    "startOffset": 39744,
                     "endLine": 398,
                     "endColumn": 12,
-                    "endOffset": 39942
+                    "endOffset": 39947
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4553,10 +4553,10 @@
                 "to": {
                     "startLine": 399,
                     "startColumn": 4,
-                    "startOffset": 39947,
+                    "startOffset": 39952,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 40066
+                    "endOffset": 40071
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4574,10 +4574,10 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 40071,
+                    "startOffset": 40076,
                     "endLine": 402,
                     "endColumn": 12,
-                    "endOffset": 40190
+                    "endOffset": 40195
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4595,9 +4595,9 @@
                 "to": {
                     "startLine": 403,
                     "startColumn": 4,
-                    "startOffset": 40195,
+                    "startOffset": 40200,
                     "endColumn": 104,
-                    "endOffset": 40295
+                    "endOffset": 40300
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4614,9 +4614,9 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 40300,
+                    "startOffset": 40305,
                     "endColumn": 116,
-                    "endOffset": 40412
+                    "endOffset": 40417
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4633,10 +4633,10 @@
                 "to": {
                     "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 40417,
+                    "startOffset": 40422,
                     "endLine": 407,
                     "endColumn": 12,
-                    "endOffset": 40626
+                    "endOffset": 40631
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4654,10 +4654,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 40631,
+                    "startOffset": 40636,
                     "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 40772
+                    "endOffset": 40777
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4675,10 +4675,10 @@
                 "to": {
                     "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 40777,
+                    "startOffset": 40782,
                     "endLine": 411,
                     "endColumn": 12,
-                    "endOffset": 40912
+                    "endOffset": 40917
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4696,10 +4696,10 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 40917,
+                    "startOffset": 40922,
                     "endLine": 413,
                     "endColumn": 12,
-                    "endOffset": 40998
+                    "endOffset": 41003
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4717,10 +4717,10 @@
                 "to": {
                     "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 41003,
+                    "startOffset": 41008,
                     "endLine": 418,
                     "endColumn": 12,
-                    "endOffset": 41346
+                    "endOffset": 41351
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4738,9 +4738,9 @@
                 "to": {
                     "startLine": 419,
                     "startColumn": 4,
-                    "startOffset": 41351,
+                    "startOffset": 41356,
                     "endColumn": 87,
-                    "endOffset": 41434
+                    "endOffset": 41439
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4757,10 +4757,10 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 41439,
+                    "startOffset": 41444,
                     "endLine": 423,
                     "endColumn": 12,
-                    "endOffset": 41664
+                    "endOffset": 41669
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4778,10 +4778,10 @@
                 "to": {
                     "startLine": 424,
                     "startColumn": 4,
-                    "startOffset": 41669,
+                    "startOffset": 41674,
                     "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 42082
+                    "endOffset": 42087
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4799,10 +4799,10 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 42087,
+                    "startOffset": 42092,
                     "endLine": 433,
                     "endColumn": 12,
-                    "endOffset": 42315
+                    "endOffset": 42320
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4820,9 +4820,9 @@
                 "to": {
                     "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 42320,
+                    "startOffset": 42325,
                     "endColumn": 81,
-                    "endOffset": 42397
+                    "endOffset": 42402
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4839,10 +4839,10 @@
                 "to": {
                     "startLine": 435,
                     "startColumn": 4,
-                    "startOffset": 42402,
+                    "startOffset": 42407,
                     "endLine": 436,
                     "endColumn": 12,
-                    "endOffset": 42495
+                    "endOffset": 42500
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4860,10 +4860,10 @@
                 "to": {
                     "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 42500,
+                    "startOffset": 42505,
                     "endLine": 447,
                     "endColumn": 12,
-                    "endOffset": 43112
+                    "endOffset": 43117
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4881,9 +4881,9 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 43117,
+                    "startOffset": 43122,
                     "endColumn": 99,
-                    "endOffset": 43212
+                    "endOffset": 43217
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4900,10 +4900,10 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 43217,
+                    "startOffset": 43222,
                     "endLine": 452,
                     "endColumn": 12,
-                    "endOffset": 43448
+                    "endOffset": 43453
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4921,10 +4921,10 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 43453,
+                    "startOffset": 43458,
                     "endLine": 458,
                     "endColumn": 12,
-                    "endOffset": 43872
+                    "endOffset": 43877
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4942,10 +4942,10 @@
                 "to": {
                     "startLine": 459,
                     "startColumn": 4,
-                    "startOffset": 43877,
+                    "startOffset": 43882,
                     "endLine": 462,
                     "endColumn": 12,
-                    "endOffset": 44111
+                    "endOffset": 44116
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4963,9 +4963,9 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 44116,
+                    "startOffset": 44121,
                     "endColumn": 93,
-                    "endOffset": 44205
+                    "endOffset": 44210
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -4982,9 +4982,9 @@
                 "to": {
                     "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 44210,
+                    "startOffset": 44215,
                     "endColumn": 88,
-                    "endOffset": 44294
+                    "endOffset": 44299
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5001,10 +5001,10 @@
                 "to": {
                     "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 44299,
+                    "startOffset": 44304,
                     "endLine": 468,
                     "endColumn": 12,
-                    "endOffset": 44531
+                    "endOffset": 44536
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5022,10 +5022,10 @@
                 "to": {
                     "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 44536,
+                    "startOffset": 44541,
                     "endLine": 494,
                     "endColumn": 12,
-                    "endOffset": 46482
+                    "endOffset": 46487
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5043,10 +5043,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 46487,
+                    "startOffset": 46492,
                     "endLine": 498,
                     "endColumn": 12,
-                    "endOffset": 46724
+                    "endOffset": 46729
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5064,10 +5064,10 @@
                 "to": {
                     "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 46729,
+                    "startOffset": 46734,
                     "endLine": 525,
                     "endColumn": 12,
-                    "endOffset": 48806
+                    "endOffset": 48811
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5085,10 +5085,10 @@
                 "to": {
                     "startLine": 526,
                     "startColumn": 4,
-                    "startOffset": 48811,
+                    "startOffset": 48816,
                     "endLine": 678,
                     "endColumn": 12,
-                    "endOffset": 58488
+                    "endOffset": 58493
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5106,10 +5106,10 @@
                 "to": {
                     "startLine": 679,
                     "startColumn": 4,
-                    "startOffset": 58493,
+                    "startOffset": 58498,
                     "endLine": 700,
                     "endColumn": 12,
-                    "endOffset": 59755
+                    "endOffset": 59760
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5127,10 +5127,10 @@
                 "to": {
                     "startLine": 701,
                     "startColumn": 4,
-                    "startOffset": 59760,
+                    "startOffset": 59765,
                     "endLine": 853,
                     "endColumn": 12,
-                    "endOffset": 69547
+                    "endOffset": 69552
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5148,10 +5148,10 @@
                 "to": {
                     "startLine": 854,
                     "startColumn": 4,
-                    "startOffset": 69552,
+                    "startOffset": 69557,
                     "endLine": 875,
                     "endColumn": 12,
-                    "endOffset": 70828
+                    "endOffset": 70833
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5169,10 +5169,10 @@
                 "to": {
                     "startLine": 876,
                     "startColumn": 4,
-                    "startOffset": 70833,
+                    "startOffset": 70838,
                     "endLine": 882,
                     "endColumn": 12,
-                    "endOffset": 71364
+                    "endOffset": 71369
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5190,10 +5190,10 @@
                 "to": {
                     "startLine": 883,
                     "startColumn": 4,
-                    "startOffset": 71369,
+                    "startOffset": 71374,
                     "endLine": 887,
                     "endColumn": 12,
-                    "endOffset": 71694
+                    "endOffset": 71699
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5211,10 +5211,10 @@
                 "to": {
                     "startLine": 888,
                     "startColumn": 4,
-                    "startOffset": 71699,
+                    "startOffset": 71704,
                     "endLine": 908,
                     "endColumn": 12,
-                    "endOffset": 72817
+                    "endOffset": 72822
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5232,10 +5232,10 @@
                 "to": {
                     "startLine": 909,
                     "startColumn": 4,
-                    "startOffset": 72822,
+                    "startOffset": 72827,
                     "endLine": 913,
                     "endColumn": 12,
-                    "endOffset": 73073
+                    "endOffset": 73078
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5253,10 +5253,10 @@
                 "to": {
                     "startLine": 914,
                     "startColumn": 4,
-                    "startOffset": 73078,
+                    "startOffset": 73083,
                     "endLine": 918,
                     "endColumn": 12,
-                    "endOffset": 73309
+                    "endOffset": 73314
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5274,10 +5274,10 @@
                 "to": {
                     "startLine": 919,
                     "startColumn": 4,
-                    "startOffset": 73314,
+                    "startOffset": 73319,
                     "endLine": 928,
                     "endColumn": 12,
-                    "endOffset": 73856
+                    "endOffset": 73861
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5295,10 +5295,10 @@
                 "to": {
                     "startLine": 929,
                     "startColumn": 4,
-                    "startOffset": 73861,
+                    "startOffset": 73866,
                     "endLine": 937,
                     "endColumn": 12,
-                    "endOffset": 74350
+                    "endOffset": 74355
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5316,10 +5316,10 @@
                 "to": {
                     "startLine": 938,
                     "startColumn": 4,
-                    "startOffset": 74355,
+                    "startOffset": 74360,
                     "endLine": 946,
                     "endColumn": 12,
-                    "endOffset": 74955
+                    "endOffset": 74960
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5337,10 +5337,10 @@
                 "to": {
                     "startLine": 947,
                     "startColumn": 4,
-                    "startOffset": 74960,
+                    "startOffset": 74965,
                     "endLine": 949,
                     "endColumn": 12,
-                    "endOffset": 75103
+                    "endOffset": 75108
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5358,10 +5358,10 @@
                 "to": {
                     "startLine": 950,
                     "startColumn": 4,
-                    "startOffset": 75108,
+                    "startOffset": 75113,
                     "endLine": 956,
                     "endColumn": 12,
-                    "endOffset": 75691
+                    "endOffset": 75696
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5379,10 +5379,10 @@
                 "to": {
                     "startLine": 957,
                     "startColumn": 4,
-                    "startOffset": 75696,
+                    "startOffset": 75701,
                     "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 76255
+                    "endOffset": 76260
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5400,10 +5400,10 @@
                 "to": {
                     "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 76260,
+                    "startOffset": 76265,
                     "endLine": 971,
                     "endColumn": 12,
-                    "endOffset": 76630
+                    "endOffset": 76635
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5421,9 +5421,9 @@
                 "to": {
                     "startLine": 972,
                     "startColumn": 4,
-                    "startOffset": 76635,
+                    "startOffset": 76640,
                     "endColumn": 117,
-                    "endOffset": 76748
+                    "endOffset": 76753
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5440,10 +5440,10 @@
                 "to": {
                     "startLine": 973,
                     "startColumn": 4,
-                    "startOffset": 76753,
+                    "startOffset": 76758,
                     "endLine": 981,
                     "endColumn": 12,
-                    "endOffset": 77286
+                    "endOffset": 77291
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5461,10 +5461,10 @@
                 "to": {
                     "startLine": 982,
                     "startColumn": 4,
-                    "startOffset": 77291,
+                    "startOffset": 77296,
                     "endLine": 984,
                     "endColumn": 12,
-                    "endOffset": 77443
+                    "endOffset": 77448
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5482,10 +5482,10 @@
                 "to": {
                     "startLine": 985,
                     "startColumn": 4,
-                    "startOffset": 77448,
+                    "startOffset": 77453,
                     "endLine": 987,
                     "endColumn": 12,
-                    "endOffset": 77587
+                    "endOffset": 77592
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5503,10 +5503,10 @@
                 "to": {
                     "startLine": 988,
                     "startColumn": 4,
-                    "startOffset": 77592,
+                    "startOffset": 77597,
                     "endLine": 992,
                     "endColumn": 12,
-                    "endOffset": 77907
+                    "endOffset": 77912
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5524,10 +5524,10 @@
                 "to": {
                     "startLine": 993,
                     "startColumn": 4,
-                    "startOffset": 77912,
+                    "startOffset": 77917,
                     "endLine": 996,
                     "endColumn": 12,
-                    "endOffset": 78163
+                    "endOffset": 78168
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5545,10 +5545,10 @@
                 "to": {
                     "startLine": 997,
                     "startColumn": 4,
-                    "startOffset": 78168,
+                    "startOffset": 78173,
                     "endLine": 1000,
                     "endColumn": 12,
-                    "endOffset": 78333
+                    "endOffset": 78338
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5566,10 +5566,10 @@
                 "to": {
                     "startLine": 1001,
                     "startColumn": 4,
-                    "startOffset": 78338,
+                    "startOffset": 78343,
                     "endLine": 1003,
                     "endColumn": 12,
-                    "endOffset": 78474
+                    "endOffset": 78479
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5587,9 +5587,9 @@
                 "to": {
                     "startLine": 1004,
                     "startColumn": 4,
-                    "startOffset": 78479,
+                    "startOffset": 78484,
                     "endColumn": 63,
-                    "endOffset": 78538
+                    "endOffset": 78543
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5606,10 +5606,10 @@
                 "to": {
                     "startLine": 1005,
                     "startColumn": 4,
-                    "startOffset": 78543,
+                    "startOffset": 78548,
                     "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 78820
+                    "endOffset": 78825
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5627,10 +5627,10 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 78825,
+                    "startOffset": 78830,
                     "endLine": 1012,
                     "endColumn": 12,
-                    "endOffset": 79106
+                    "endOffset": 79111
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5648,10 +5648,10 @@
                 "to": {
                     "startLine": 1013,
                     "startColumn": 4,
-                    "startOffset": 79111,
+                    "startOffset": 79116,
                     "endLine": 1022,
                     "endColumn": 12,
-                    "endOffset": 79782
+                    "endOffset": 79787
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5669,10 +5669,10 @@
                 "to": {
                     "startLine": 1023,
                     "startColumn": 4,
-                    "startOffset": 79787,
+                    "startOffset": 79792,
                     "endLine": 1027,
                     "endColumn": 12,
-                    "endOffset": 80046
+                    "endOffset": 80051
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5690,10 +5690,10 @@
                 "to": {
                     "startLine": 1028,
                     "startColumn": 4,
-                    "startOffset": 80051,
+                    "startOffset": 80056,
                     "endLine": 1034,
                     "endColumn": 12,
-                    "endOffset": 80384
+                    "endOffset": 80389
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5711,10 +5711,10 @@
                 "to": {
                     "startLine": 1035,
                     "startColumn": 4,
-                    "startOffset": 80389,
+                    "startOffset": 80394,
                     "endLine": 1040,
                     "endColumn": 12,
-                    "endOffset": 80737
+                    "endOffset": 80742
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5732,9 +5732,9 @@
                 "to": {
                     "startLine": 1041,
                     "startColumn": 4,
-                    "startOffset": 80742,
+                    "startOffset": 80747,
                     "endColumn": 93,
-                    "endOffset": 80831
+                    "endOffset": 80836
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5751,10 +5751,10 @@
                 "to": {
                     "startLine": 1042,
                     "startColumn": 4,
-                    "startOffset": 80836,
+                    "startOffset": 80841,
                     "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 81017
+                    "endOffset": 81022
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5772,10 +5772,10 @@
                 "to": {
                     "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 81022,
+                    "startOffset": 81027,
                     "endLine": 1048,
                     "endColumn": 12,
-                    "endOffset": 81323
+                    "endOffset": 81328
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5793,10 +5793,10 @@
                 "to": {
                     "startLine": 1049,
                     "startColumn": 4,
-                    "startOffset": 81328,
+                    "startOffset": 81333,
                     "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 81585
+                    "endOffset": 81590
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5814,10 +5814,10 @@
                 "to": {
                     "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 81590,
+                    "startOffset": 81595,
                     "endLine": 1055,
                     "endColumn": 12,
-                    "endOffset": 81710
+                    "endOffset": 81715
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5835,10 +5835,10 @@
                 "to": {
                     "startLine": 1056,
                     "startColumn": 4,
-                    "startOffset": 81715,
+                    "startOffset": 81720,
                     "endLine": 1057,
                     "endColumn": 12,
-                    "endOffset": 81837
+                    "endOffset": 81842
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5856,10 +5856,10 @@
                 "to": {
                     "startLine": 1058,
                     "startColumn": 4,
-                    "startOffset": 81842,
+                    "startOffset": 81847,
                     "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 82076
+                    "endOffset": 82081
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5877,10 +5877,10 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 82081,
+                    "startOffset": 82086,
                     "endLine": 1063,
                     "endColumn": 12,
-                    "endOffset": 82287
+                    "endOffset": 82292
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5898,10 +5898,10 @@
                 "to": {
                     "startLine": 1064,
                     "startColumn": 4,
-                    "startOffset": 82292,
+                    "startOffset": 82297,
                     "endLine": 1065,
                     "endColumn": 12,
-                    "endOffset": 82406
+                    "endOffset": 82411
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5919,10 +5919,10 @@
                 "to": {
                     "startLine": 1066,
                     "startColumn": 4,
-                    "startOffset": 82411,
+                    "startOffset": 82416,
                     "endLine": 1069,
                     "endColumn": 12,
-                    "endOffset": 82599
+                    "endOffset": 82604
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5940,10 +5940,10 @@
                 "to": {
                     "startLine": 1070,
                     "startColumn": 4,
-                    "startOffset": 82604,
+                    "startOffset": 82609,
                     "endLine": 1076,
                     "endColumn": 12,
-                    "endOffset": 83054
+                    "endOffset": 83059
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5961,10 +5961,10 @@
                 "to": {
                     "startLine": 1077,
                     "startColumn": 4,
-                    "startOffset": 83059,
+                    "startOffset": 83064,
                     "endLine": 1079,
                     "endColumn": 12,
-                    "endOffset": 83235
+                    "endOffset": 83240
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -5982,10 +5982,10 @@
                 "to": {
                     "startLine": 1080,
                     "startColumn": 4,
-                    "startOffset": 83240,
+                    "startOffset": 83245,
                     "endLine": 1082,
                     "endColumn": 12,
-                    "endOffset": 83357
+                    "endOffset": 83362
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6003,10 +6003,10 @@
                 "to": {
                     "startLine": 1083,
                     "startColumn": 4,
-                    "startOffset": 83362,
+                    "startOffset": 83367,
                     "endLine": 1086,
                     "endColumn": 12,
-                    "endOffset": 83616
+                    "endOffset": 83621
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6024,10 +6024,10 @@
                 "to": {
                     "startLine": 1087,
                     "startColumn": 4,
-                    "startOffset": 83621,
+                    "startOffset": 83626,
                     "endLine": 1088,
                     "endColumn": 12,
-                    "endOffset": 83729
+                    "endOffset": 83734
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6045,10 +6045,10 @@
                 "to": {
                     "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 83734,
+                    "startOffset": 83739,
                     "endLine": 1092,
                     "endColumn": 12,
-                    "endOffset": 83916
+                    "endOffset": 83921
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6066,10 +6066,10 @@
                 "to": {
                     "startLine": 1093,
                     "startColumn": 4,
-                    "startOffset": 83921,
+                    "startOffset": 83926,
                     "endLine": 1094,
                     "endColumn": 12,
-                    "endOffset": 84018
+                    "endOffset": 84023
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6087,10 +6087,10 @@
                 "to": {
                     "startLine": 1095,
                     "startColumn": 4,
-                    "startOffset": 84023,
+                    "startOffset": 84028,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 84462
+                    "endOffset": 84467
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6108,10 +6108,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 84467,
+                    "startOffset": 84472,
                     "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 84586
+                    "endOffset": 84591
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6129,10 +6129,10 @@
                 "to": {
                     "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 84591,
+                    "startOffset": 84596,
                     "endLine": 1106,
                     "endColumn": 12,
-                    "endOffset": 84871
+                    "endOffset": 84876
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6150,10 +6150,10 @@
                 "to": {
                     "startLine": 1107,
                     "startColumn": 4,
-                    "startOffset": 84876,
+                    "startOffset": 84881,
                     "endLine": 1118,
                     "endColumn": 12,
-                    "endOffset": 85758
+                    "endOffset": 85763
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6171,10 +6171,10 @@
                 "to": {
                     "startLine": 1119,
                     "startColumn": 4,
-                    "startOffset": 85763,
+                    "startOffset": 85768,
                     "endLine": 1124,
                     "endColumn": 12,
-                    "endOffset": 86052
+                    "endOffset": 86057
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6192,10 +6192,10 @@
                 "to": {
                     "startLine": 1125,
                     "startColumn": 4,
-                    "startOffset": 86057,
+                    "startOffset": 86062,
                     "endLine": 1133,
                     "endColumn": 12,
-                    "endOffset": 86622
+                    "endOffset": 86627
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6213,10 +6213,10 @@
                 "to": {
                     "startLine": 1134,
                     "startColumn": 4,
-                    "startOffset": 86627,
+                    "startOffset": 86632,
                     "endLine": 1144,
                     "endColumn": 12,
-                    "endOffset": 87354
+                    "endOffset": 87359
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6234,10 +6234,10 @@
                 "to": {
                     "startLine": 1145,
                     "startColumn": 4,
-                    "startOffset": 87359,
+                    "startOffset": 87364,
                     "endLine": 1147,
                     "endColumn": 12,
-                    "endOffset": 87526
+                    "endOffset": 87531
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6255,10 +6255,10 @@
                 "to": {
                     "startLine": 1148,
                     "startColumn": 4,
-                    "startOffset": 87531,
+                    "startOffset": 87536,
                     "endLine": 1152,
                     "endColumn": 12,
-                    "endOffset": 87862
+                    "endOffset": 87867
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6276,10 +6276,10 @@
                 "to": {
                     "startLine": 1153,
                     "startColumn": 4,
-                    "startOffset": 87867,
+                    "startOffset": 87872,
                     "endLine": 1164,
                     "endColumn": 12,
-                    "endOffset": 88729
+                    "endOffset": 88734
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6297,10 +6297,10 @@
                 "to": {
                     "startLine": 1165,
                     "startColumn": 4,
-                    "startOffset": 88734,
+                    "startOffset": 88739,
                     "endLine": 1169,
                     "endColumn": 12,
-                    "endOffset": 89007
+                    "endOffset": 89012
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6318,10 +6318,10 @@
                 "to": {
                     "startLine": 1170,
                     "startColumn": 4,
-                    "startOffset": 89012,
+                    "startOffset": 89017,
                     "endLine": 1207,
                     "endColumn": 12,
-                    "endOffset": 91869
+                    "endOffset": 91874
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6339,10 +6339,10 @@
                 "to": {
                     "startLine": 1208,
                     "startColumn": 4,
-                    "startOffset": 91874,
+                    "startOffset": 91879,
                     "endLine": 1246,
                     "endColumn": 12,
-                    "endOffset": 94871
+                    "endOffset": 94876
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6360,9 +6360,9 @@
                 "to": {
                     "startLine": 1247,
                     "startColumn": 4,
-                    "startOffset": 94876,
+                    "startOffset": 94881,
                     "endColumn": 61,
-                    "endOffset": 94933
+                    "endOffset": 94938
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6379,10 +6379,10 @@
                 "to": {
                     "startLine": 1248,
                     "startColumn": 4,
-                    "startOffset": 94938,
+                    "startOffset": 94943,
                     "endLine": 1257,
                     "endColumn": 12,
-                    "endOffset": 95563
+                    "endOffset": 95568
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6400,10 +6400,10 @@
                 "to": {
                     "startLine": 1258,
                     "startColumn": 4,
-                    "startOffset": 95568,
+                    "startOffset": 95573,
                     "endLine": 1266,
                     "endColumn": 12,
-                    "endOffset": 96177
+                    "endOffset": 96182
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6421,9 +6421,9 @@
                 "to": {
                     "startLine": 1267,
                     "startColumn": 4,
-                    "startOffset": 96182,
+                    "startOffset": 96187,
                     "endColumn": 85,
-                    "endOffset": 96263
+                    "endOffset": 96268
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6440,10 +6440,10 @@
                 "to": {
                     "startLine": 1268,
                     "startColumn": 4,
-                    "startOffset": 96268,
+                    "startOffset": 96273,
                     "endLine": 1269,
                     "endColumn": 12,
-                    "endOffset": 96376
+                    "endOffset": 96381
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6461,10 +6461,10 @@
                 "to": {
                     "startLine": 1270,
                     "startColumn": 4,
-                    "startOffset": 96381,
+                    "startOffset": 96386,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 96605
+                    "endOffset": 96610
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6482,10 +6482,10 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 96610,
+                    "startOffset": 96615,
                     "endLine": 1276,
                     "endColumn": 12,
-                    "endOffset": 96765
+                    "endOffset": 96770
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6503,10 +6503,10 @@
                 "to": {
                     "startLine": 1277,
                     "startColumn": 4,
-                    "startOffset": 96770,
+                    "startOffset": 96775,
                     "endLine": 1279,
                     "endColumn": 12,
-                    "endOffset": 96917
+                    "endOffset": 96922
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6524,10 +6524,10 @@
                 "to": {
                     "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 96922,
+                    "startOffset": 96927,
                     "endLine": 1282,
                     "endColumn": 12,
-                    "endOffset": 97088
+                    "endOffset": 97093
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6545,10 +6545,10 @@
                 "to": {
                     "startLine": 1283,
                     "startColumn": 4,
-                    "startOffset": 97093,
+                    "startOffset": 97098,
                     "endLine": 1285,
                     "endColumn": 12,
-                    "endOffset": 97255
+                    "endOffset": 97260
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6566,10 +6566,10 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 97260,
+                    "startOffset": 97265,
                     "endLine": 1289,
                     "endColumn": 12,
-                    "endOffset": 97498
+                    "endOffset": 97503
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6587,10 +6587,10 @@
                 "to": {
                     "startLine": 1290,
                     "startColumn": 4,
-                    "startOffset": 97503,
+                    "startOffset": 97508,
                     "endLine": 1292,
                     "endColumn": 12,
-                    "endOffset": 97668
+                    "endOffset": 97673
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6608,10 +6608,10 @@
                 "to": {
                     "startLine": 1293,
                     "startColumn": 4,
-                    "startOffset": 97673,
+                    "startOffset": 97678,
                     "endLine": 1295,
                     "endColumn": 12,
-                    "endOffset": 97841
+                    "endOffset": 97846
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6629,10 +6629,10 @@
                 "to": {
                     "startLine": 1296,
                     "startColumn": 4,
-                    "startOffset": 97846,
+                    "startOffset": 97851,
                     "endLine": 1298,
                     "endColumn": 12,
-                    "endOffset": 98012
+                    "endOffset": 98017
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6650,10 +6650,10 @@
                 "to": {
                     "startLine": 1299,
                     "startColumn": 4,
-                    "startOffset": 98017,
+                    "startOffset": 98022,
                     "endLine": 1302,
                     "endColumn": 12,
-                    "endOffset": 98286
+                    "endOffset": 98291
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6671,10 +6671,10 @@
                 "to": {
                     "startLine": 1303,
                     "startColumn": 4,
-                    "startOffset": 98291,
+                    "startOffset": 98296,
                     "endLine": 1305,
                     "endColumn": 12,
-                    "endOffset": 98485
+                    "endOffset": 98490
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6692,10 +6692,10 @@
                 "to": {
                     "startLine": 1306,
                     "startColumn": 4,
-                    "startOffset": 98490,
+                    "startOffset": 98495,
                     "endLine": 1309,
                     "endColumn": 12,
-                    "endOffset": 98690
+                    "endOffset": 98695
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6713,10 +6713,10 @@
                 "to": {
                     "startLine": 1310,
                     "startColumn": 4,
-                    "startOffset": 98695,
+                    "startOffset": 98700,
                     "endLine": 1313,
                     "endColumn": 12,
-                    "endOffset": 99020
+                    "endOffset": 99025
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6734,9 +6734,9 @@
                 "to": {
                     "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 99025,
+                    "startOffset": 99030,
                     "endColumn": 83,
-                    "endOffset": 99104
+                    "endOffset": 99109
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6753,9 +6753,9 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 99109,
+                    "startOffset": 99114,
                     "endColumn": 95,
-                    "endOffset": 99200
+                    "endOffset": 99205
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6772,9 +6772,9 @@
                 "to": {
                     "startLine": 1316,
                     "startColumn": 4,
-                    "startOffset": 99205,
+                    "startOffset": 99210,
                     "endColumn": 95,
-                    "endOffset": 99296
+                    "endOffset": 99301
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6791,9 +6791,9 @@
                 "to": {
                     "startLine": 1317,
                     "startColumn": 4,
-                    "startOffset": 99301,
+                    "startOffset": 99306,
                     "endColumn": 97,
-                    "endOffset": 99394
+                    "endOffset": 99399
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6810,9 +6810,9 @@
                 "to": {
                     "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 99399,
+                    "startOffset": 99404,
                     "endColumn": 99,
-                    "endOffset": 99494
+                    "endOffset": 99499
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6829,9 +6829,9 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 99499,
+                    "startOffset": 99504,
                     "endColumn": 101,
-                    "endOffset": 99596
+                    "endOffset": 99601
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6848,9 +6848,9 @@
                 "to": {
                     "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 99601,
+                    "startOffset": 99606,
                     "endColumn": 101,
-                    "endOffset": 99698
+                    "endOffset": 99703
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6867,9 +6867,9 @@
                 "to": {
                     "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 99703,
+                    "startOffset": 99708,
                     "endColumn": 101,
-                    "endOffset": 99800
+                    "endOffset": 99805
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6886,9 +6886,9 @@
                 "to": {
                     "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 99805,
+                    "startOffset": 99810,
                     "endColumn": 101,
-                    "endOffset": 99902
+                    "endOffset": 99907
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6905,9 +6905,9 @@
                 "to": {
                     "startLine": 1323,
                     "startColumn": 4,
-                    "startOffset": 99907,
+                    "startOffset": 99912,
                     "endColumn": 101,
-                    "endOffset": 100004
+                    "endOffset": 100009
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6924,9 +6924,9 @@
                 "to": {
                     "startLine": 1324,
                     "startColumn": 4,
-                    "startOffset": 100009,
+                    "startOffset": 100014,
                     "endColumn": 99,
-                    "endOffset": 100104
+                    "endOffset": 100109
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6943,9 +6943,9 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 100109,
+                    "startOffset": 100114,
                     "endColumn": 95,
-                    "endOffset": 100200
+                    "endOffset": 100205
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6962,9 +6962,9 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 100205,
+                    "startOffset": 100210,
                     "endColumn": 111,
-                    "endOffset": 100312
+                    "endOffset": 100317
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -6981,9 +6981,9 @@
                 "to": {
                     "startLine": 1327,
                     "startColumn": 4,
-                    "startOffset": 100317,
+                    "startOffset": 100322,
                     "endColumn": 128,
-                    "endOffset": 100441
+                    "endOffset": 100446
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7000,9 +7000,9 @@
                 "to": {
                     "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 100446,
+                    "startOffset": 100451,
                     "endColumn": 122,
-                    "endOffset": 100564
+                    "endOffset": 100569
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7019,10 +7019,10 @@
                 "to": {
                     "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 100569,
+                    "startOffset": 100574,
                     "endLine": 1330,
                     "endColumn": 12,
-                    "endOffset": 100718
+                    "endOffset": 100723
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7040,10 +7040,10 @@
                 "to": {
                     "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 100723,
+                    "startOffset": 100728,
                     "endLine": 1332,
                     "endColumn": 12,
-                    "endOffset": 100872
+                    "endOffset": 100877
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7061,9 +7061,9 @@
                 "to": {
                     "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 100877,
+                    "startOffset": 100882,
                     "endColumn": 97,
-                    "endOffset": 100970
+                    "endOffset": 100975
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7080,9 +7080,9 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 100975,
+                    "startOffset": 100980,
                     "endColumn": 113,
-                    "endOffset": 101084
+                    "endOffset": 101089
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7099,9 +7099,9 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 101089,
+                    "startOffset": 101094,
                     "endColumn": 93,
-                    "endOffset": 101178
+                    "endOffset": 101183
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7118,10 +7118,10 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 101183,
+                    "startOffset": 101188,
                     "endLine": 1337,
                     "endColumn": 12,
-                    "endOffset": 101318
+                    "endOffset": 101323
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7139,10 +7139,10 @@
                 "to": {
                     "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 101323,
+                    "startOffset": 101328,
                     "endLine": 1339,
                     "endColumn": 12,
-                    "endOffset": 101452
+                    "endOffset": 101457
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7160,9 +7160,9 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 101457,
+                    "startOffset": 101462,
                     "endColumn": 95,
-                    "endOffset": 101548
+                    "endOffset": 101553
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7179,9 +7179,9 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 101553,
+                    "startOffset": 101558,
                     "endColumn": 111,
-                    "endOffset": 101660
+                    "endOffset": 101665
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7198,9 +7198,9 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 101665,
+                    "startOffset": 101670,
                     "endColumn": 99,
-                    "endOffset": 101760
+                    "endOffset": 101765
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7217,9 +7217,9 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 101765,
+                    "startOffset": 101770,
                     "endColumn": 115,
-                    "endOffset": 101876
+                    "endOffset": 101881
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7236,9 +7236,9 @@
                 "to": {
                     "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 101881,
+                    "startOffset": 101886,
                     "endColumn": 95,
-                    "endOffset": 101972
+                    "endOffset": 101977
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7255,9 +7255,9 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 101977,
+                    "startOffset": 101982,
                     "endColumn": 111,
-                    "endOffset": 102084
+                    "endOffset": 102089
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7274,10 +7274,10 @@
                 "to": {
                     "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 102089,
+                    "startOffset": 102094,
                     "endLine": 1347,
                     "endColumn": 12,
-                    "endOffset": 102224
+                    "endOffset": 102229
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7295,9 +7295,9 @@
                 "to": {
                     "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 102229,
+                    "startOffset": 102234,
                     "endColumn": 135,
-                    "endOffset": 102360
+                    "endOffset": 102365
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7314,10 +7314,10 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 102365,
+                    "startOffset": 102370,
                     "endLine": 1350,
                     "endColumn": 12,
-                    "endOffset": 102524
+                    "endOffset": 102529
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7335,9 +7335,9 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 102529,
+                    "startOffset": 102534,
                     "endColumn": 129,
-                    "endOffset": 102654
+                    "endOffset": 102659
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7354,10 +7354,10 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 102659,
+                    "startOffset": 102664,
                     "endLine": 1353,
                     "endColumn": 12,
-                    "endOffset": 102812
+                    "endOffset": 102817
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7375,10 +7375,10 @@
                 "to": {
                     "startLine": 1354,
                     "startColumn": 4,
-                    "startOffset": 102817,
+                    "startOffset": 102822,
                     "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 102962
+                    "endOffset": 102967
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7396,9 +7396,9 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 102967,
+                    "startOffset": 102972,
                     "endColumn": 140,
-                    "endOffset": 103103
+                    "endOffset": 103108
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7415,10 +7415,10 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 103108,
+                    "startOffset": 103113,
                     "endLine": 1358,
                     "endColumn": 12,
-                    "endOffset": 103247
+                    "endOffset": 103252
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7436,9 +7436,9 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 103252,
+                    "startOffset": 103257,
                     "endColumn": 134,
-                    "endOffset": 103382
+                    "endOffset": 103387
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7455,9 +7455,9 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 103387,
+                    "startOffset": 103392,
                     "endColumn": 111,
-                    "endOffset": 103494
+                    "endOffset": 103499
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7474,9 +7474,9 @@
                 "to": {
                     "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 103499,
+                    "startOffset": 103504,
                     "endColumn": 127,
-                    "endOffset": 103622
+                    "endOffset": 103627
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7493,10 +7493,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 103627,
+                    "startOffset": 103632,
                     "endLine": 1363,
                     "endColumn": 12,
-                    "endOffset": 103758
+                    "endOffset": 103763
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7514,10 +7514,10 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 103763,
+                    "startOffset": 103768,
                     "endLine": 1365,
                     "endColumn": 12,
-                    "endOffset": 103900
+                    "endOffset": 103905
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7535,10 +7535,10 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 103905,
+                    "startOffset": 103910,
                     "endLine": 1367,
                     "endColumn": 12,
-                    "endOffset": 104042
+                    "endOffset": 104047
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7556,9 +7556,9 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 104047,
+                    "startOffset": 104052,
                     "endColumn": 111,
-                    "endOffset": 104154
+                    "endOffset": 104159
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7575,9 +7575,9 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 104159,
+                    "startOffset": 104164,
                     "endColumn": 139,
-                    "endOffset": 104294
+                    "endOffset": 104299
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7594,9 +7594,9 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 104299,
+                    "startOffset": 104304,
                     "endColumn": 67,
-                    "endOffset": 104362
+                    "endOffset": 104367
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7613,9 +7613,9 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 104367,
+                    "startOffset": 104372,
                     "endColumn": 72,
-                    "endOffset": 104435
+                    "endOffset": 104440
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7632,9 +7632,9 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 104440,
+                    "startOffset": 104445,
                     "endColumn": 73,
-                    "endOffset": 104509
+                    "endOffset": 104514
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7651,9 +7651,9 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 104514,
+                    "startOffset": 104519,
                     "endColumn": 72,
-                    "endOffset": 104582
+                    "endOffset": 104587
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7670,9 +7670,9 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 104587,
+                    "startOffset": 104592,
                     "endColumn": 73,
-                    "endOffset": 104656
+                    "endOffset": 104661
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7689,10 +7689,10 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 104661,
+                    "startOffset": 104666,
                     "endLine": 1376,
                     "endColumn": 12,
-                    "endOffset": 104802
+                    "endOffset": 104807
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7710,10 +7710,10 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 104807,
+                    "startOffset": 104812,
                     "endLine": 1378,
                     "endColumn": 12,
-                    "endOffset": 104946
+                    "endOffset": 104951
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7731,10 +7731,10 @@
                 "to": {
                     "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 104951,
+                    "startOffset": 104956,
                     "endLine": 1380,
                     "endColumn": 12,
-                    "endOffset": 105084
+                    "endOffset": 105089
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7752,9 +7752,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 105089,
+                    "startOffset": 105094,
                     "endColumn": 65,
-                    "endOffset": 105150
+                    "endOffset": 105155
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7771,9 +7771,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 105155,
+                    "startOffset": 105160,
                     "endColumn": 89,
-                    "endOffset": 105240
+                    "endOffset": 105245
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7790,9 +7790,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 105245,
+                    "startOffset": 105250,
                     "endColumn": 79,
-                    "endOffset": 105320
+                    "endOffset": 105325
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7809,9 +7809,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 105325,
+                    "startOffset": 105330,
                     "endColumn": 91,
-                    "endOffset": 105412
+                    "endOffset": 105417
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7828,9 +7828,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 105417,
+                    "startOffset": 105422,
                     "endColumn": 97,
-                    "endOffset": 105510
+                    "endOffset": 105515
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7847,10 +7847,10 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 105515,
+                    "startOffset": 105520,
                     "endLine": 1387,
                     "endColumn": 12,
-                    "endOffset": 105620
+                    "endOffset": 105625
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7868,9 +7868,9 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 105625,
+                    "startOffset": 105630,
                     "endColumn": 77,
-                    "endOffset": 105698
+                    "endOffset": 105703
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7887,9 +7887,9 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 105703,
+                    "startOffset": 105708,
                     "endColumn": 105,
-                    "endOffset": 105804
+                    "endOffset": 105809
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7906,9 +7906,9 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 105809,
+                    "startOffset": 105814,
                     "endColumn": 91,
-                    "endOffset": 105896
+                    "endOffset": 105901
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7925,9 +7925,9 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 105901,
+                    "startOffset": 105906,
                     "endColumn": 103,
-                    "endOffset": 106000
+                    "endOffset": 106005
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7944,9 +7944,9 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 106005,
+                    "startOffset": 106010,
                     "endColumn": 109,
-                    "endOffset": 106110
+                    "endOffset": 106115
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7963,10 +7963,10 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 106115,
+                    "startOffset": 106120,
                     "endLine": 1394,
                     "endColumn": 12,
-                    "endOffset": 106232
+                    "endOffset": 106237
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -7984,10 +7984,10 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 106237,
+                    "startOffset": 106242,
                     "endLine": 1398,
                     "endColumn": 12,
-                    "endOffset": 106395
+                    "endOffset": 106400
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8005,10 +8005,10 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 106400,
+                    "startOffset": 106405,
                     "endLine": 1402,
                     "endColumn": 12,
-                    "endOffset": 106552
+                    "endOffset": 106557
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8026,9 +8026,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 106557,
+                    "startOffset": 106562,
                     "endColumn": 79,
-                    "endOffset": 106632
+                    "endOffset": 106637
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8045,9 +8045,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 106637,
+                    "startOffset": 106642,
                     "endColumn": 99,
-                    "endOffset": 106732
+                    "endOffset": 106737
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8064,9 +8064,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 106737,
+                    "startOffset": 106742,
                     "endColumn": 89,
-                    "endOffset": 106822
+                    "endOffset": 106827
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8083,9 +8083,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 106827,
+                    "startOffset": 106832,
                     "endColumn": 109,
-                    "endOffset": 106932
+                    "endOffset": 106937
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8102,9 +8102,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 106937,
+                    "startOffset": 106942,
                     "endColumn": 91,
-                    "endOffset": 107024
+                    "endOffset": 107029
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8121,10 +8121,10 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107029,
+                    "startOffset": 107034,
                     "endLine": 1409,
                     "endColumn": 12,
-                    "endOffset": 107124
+                    "endOffset": 107129
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8142,10 +8142,10 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 107129,
+                    "startOffset": 107134,
                     "endLine": 1411,
                     "endColumn": 12,
-                    "endOffset": 107236
+                    "endOffset": 107241
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8163,10 +8163,10 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 107241,
+                    "startOffset": 107246,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 107350
+                    "endOffset": 107355
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8184,10 +8184,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 107355,
+                    "startOffset": 107360,
                     "endLine": 1415,
                     "endColumn": 12,
-                    "endOffset": 107466
+                    "endOffset": 107471
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8205,10 +8205,10 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 107471,
+                    "startOffset": 107476,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 107582
+                    "endOffset": 107587
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8226,9 +8226,9 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 107587,
+                    "startOffset": 107592,
                     "endColumn": 93,
-                    "endOffset": 107676
+                    "endOffset": 107681
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8245,9 +8245,9 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 107681,
+                    "startOffset": 107686,
                     "endColumn": 113,
-                    "endOffset": 107790
+                    "endOffset": 107795
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8264,9 +8264,9 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 107795,
+                    "startOffset": 107800,
                     "endColumn": 111,
-                    "endOffset": 107902
+                    "endOffset": 107907
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8283,10 +8283,10 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 107907,
+                    "startOffset": 107912,
                     "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 108004
+                    "endOffset": 108009
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8304,10 +8304,10 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 108009,
+                    "startOffset": 108014,
                     "endLine": 1424,
                     "endColumn": 12,
-                    "endOffset": 108124
+                    "endOffset": 108129
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8325,10 +8325,10 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 108129,
+                    "startOffset": 108134,
                     "endLine": 1426,
                     "endColumn": 12,
-                    "endOffset": 108246
+                    "endOffset": 108251
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8346,9 +8346,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 108251,
+                    "startOffset": 108256,
                     "endColumn": 81,
-                    "endOffset": 108328
+                    "endOffset": 108333
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8365,9 +8365,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 108333,
+                    "startOffset": 108338,
                     "endColumn": 103,
-                    "endOffset": 108432
+                    "endOffset": 108437
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8384,9 +8384,9 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 108437,
+                    "startOffset": 108442,
                     "endColumn": 119,
-                    "endOffset": 108552
+                    "endOffset": 108557
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8403,9 +8403,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 108557,
+                    "startOffset": 108562,
                     "endColumn": 125,
-                    "endOffset": 108678
+                    "endOffset": 108683
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8422,9 +8422,9 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 108683,
+                    "startOffset": 108688,
                     "endColumn": 97,
-                    "endOffset": 108776
+                    "endOffset": 108781
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8441,9 +8441,9 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 108781,
+                    "startOffset": 108786,
                     "endColumn": 93,
-                    "endOffset": 108870
+                    "endOffset": 108875
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8460,9 +8460,9 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 108875,
+                    "startOffset": 108880,
                     "endColumn": 87,
-                    "endOffset": 108958
+                    "endOffset": 108963
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8479,9 +8479,9 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 108963,
+                    "startOffset": 108968,
                     "endColumn": 111,
-                    "endOffset": 109070
+                    "endOffset": 109075
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8498,9 +8498,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 109075,
+                    "startOffset": 109080,
                     "endColumn": 115,
-                    "endOffset": 109186
+                    "endOffset": 109191
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8517,9 +8517,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 109191,
+                    "startOffset": 109196,
                     "endColumn": 121,
-                    "endOffset": 109308
+                    "endOffset": 109313
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8536,9 +8536,9 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 109313,
+                    "startOffset": 109318,
                     "endColumn": 111,
-                    "endOffset": 109420
+                    "endOffset": 109425
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8555,10 +8555,10 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 109425,
+                    "startOffset": 109430,
                     "endLine": 1440,
                     "endColumn": 12,
-                    "endOffset": 109595
+                    "endOffset": 109600
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8576,9 +8576,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 109600,
+                    "startOffset": 109605,
                     "endColumn": 115,
-                    "endOffset": 109711
+                    "endOffset": 109716
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8595,9 +8595,9 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 109716,
+                    "startOffset": 109721,
                     "endColumn": 85,
-                    "endOffset": 109797
+                    "endOffset": 109802
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8614,9 +8614,9 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 109802,
+                    "startOffset": 109807,
                     "endColumn": 91,
-                    "endOffset": 109889
+                    "endOffset": 109894
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8633,10 +8633,10 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 109894,
+                    "startOffset": 109899,
                     "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 110001
+                    "endOffset": 110006
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8654,10 +8654,10 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 110006,
+                    "startOffset": 110011,
                     "endLine": 1447,
                     "endColumn": 12,
-                    "endOffset": 110125
+                    "endOffset": 110130
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8675,9 +8675,9 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 110130,
+                    "startOffset": 110135,
                     "endColumn": 66,
-                    "endOffset": 110192
+                    "endOffset": 110197
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8694,10 +8694,10 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 110197,
+                    "startOffset": 110202,
                     "endLine": 1450,
                     "endColumn": 12,
-                    "endOffset": 110318
+                    "endOffset": 110323
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8715,9 +8715,9 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 110323,
+                    "startOffset": 110328,
                     "endColumn": 67,
-                    "endOffset": 110386
+                    "endOffset": 110391
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8734,10 +8734,10 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 110391,
+                    "startOffset": 110396,
                     "endLine": 1453,
                     "endColumn": 12,
-                    "endOffset": 110514
+                    "endOffset": 110519
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8755,10 +8755,10 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 110519,
+                    "startOffset": 110524,
                     "endLine": 1455,
                     "endColumn": 12,
-                    "endOffset": 110658
+                    "endOffset": 110663
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8776,10 +8776,10 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 110663,
+                    "startOffset": 110668,
                     "endLine": 1457,
                     "endColumn": 12,
-                    "endOffset": 110786
+                    "endOffset": 110791
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8797,9 +8797,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 110791,
+                    "startOffset": 110796,
                     "endColumn": 68,
-                    "endOffset": 110855
+                    "endOffset": 110860
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8816,9 +8816,9 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 110860,
+                    "startOffset": 110865,
                     "endColumn": 94,
-                    "endOffset": 110950
+                    "endOffset": 110955
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8835,9 +8835,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 110955,
+                    "startOffset": 110960,
                     "endColumn": 114,
-                    "endOffset": 111065
+                    "endOffset": 111070
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8854,9 +8854,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 111070,
+                    "startOffset": 111075,
                     "endColumn": 112,
-                    "endOffset": 111178
+                    "endOffset": 111183
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8873,9 +8873,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 111183,
+                    "startOffset": 111188,
                     "endColumn": 98,
-                    "endOffset": 111277
+                    "endOffset": 111282
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8892,9 +8892,9 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 111282,
+                    "startOffset": 111287,
                     "endColumn": 108,
-                    "endOffset": 111386
+                    "endOffset": 111391
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8911,9 +8911,9 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 111391,
+                    "startOffset": 111396,
                     "endColumn": 110,
-                    "endOffset": 111497
+                    "endOffset": 111502
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8930,9 +8930,9 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 111502,
+                    "startOffset": 111507,
                     "endColumn": 110,
-                    "endOffset": 111608
+                    "endOffset": 111613
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8949,9 +8949,9 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 111613,
+                    "startOffset": 111618,
                     "endColumn": 100,
-                    "endOffset": 111709
+                    "endOffset": 111714
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8968,9 +8968,9 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 111714,
+                    "startOffset": 111719,
                     "endColumn": 104,
-                    "endOffset": 111814
+                    "endOffset": 111819
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -8987,10 +8987,10 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 111819,
+                    "startOffset": 111824,
                     "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 111926
+                    "endOffset": 111931
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9008,10 +9008,10 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 111931,
+                    "startOffset": 111936,
                     "endLine": 1471,
                     "endColumn": 12,
-                    "endOffset": 112056
+                    "endOffset": 112061
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9029,9 +9029,9 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 112061,
+                    "startOffset": 112066,
                     "endColumn": 90,
-                    "endOffset": 112147
+                    "endOffset": 112152
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9048,9 +9048,9 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 112152,
+                    "startOffset": 112157,
                     "endColumn": 122,
-                    "endOffset": 112270
+                    "endOffset": 112275
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9067,10 +9067,10 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 112275,
+                    "startOffset": 112280,
                     "endLine": 1475,
                     "endColumn": 12,
-                    "endOffset": 112382
+                    "endOffset": 112387
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9088,9 +9088,9 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 112387,
+                    "startOffset": 112392,
                     "endColumn": 85,
-                    "endOffset": 112468
+                    "endOffset": 112473
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9107,9 +9107,9 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 112473,
+                    "startOffset": 112478,
                     "endColumn": 103,
-                    "endOffset": 112572
+                    "endOffset": 112577
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9126,10 +9126,10 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 112577,
+                    "startOffset": 112582,
                     "endLine": 1479,
                     "endColumn": 12,
-                    "endOffset": 112680
+                    "endOffset": 112685
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9147,10 +9147,10 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 112685,
+                    "startOffset": 112690,
                     "endLine": 1481,
                     "endColumn": 12,
-                    "endOffset": 112780
+                    "endOffset": 112785
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9168,10 +9168,10 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 112785,
+                    "startOffset": 112790,
                     "endLine": 1483,
                     "endColumn": 12,
-                    "endOffset": 112898
+                    "endOffset": 112903
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9189,10 +9189,10 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 112903,
+                    "startOffset": 112908,
                     "endLine": 1485,
                     "endColumn": 12,
-                    "endOffset": 113002
+                    "endOffset": 113007
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9210,10 +9210,10 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 113007,
+                    "startOffset": 113012,
                     "endLine": 1487,
                     "endColumn": 12,
-                    "endOffset": 113106
+                    "endOffset": 113111
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9231,10 +9231,10 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 113111,
+                    "startOffset": 113116,
                     "endLine": 1489,
                     "endColumn": 12,
-                    "endOffset": 113232
+                    "endOffset": 113237
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9252,9 +9252,9 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 113237,
+                    "startOffset": 113242,
                     "endColumn": 87,
-                    "endOffset": 113320
+                    "endOffset": 113325
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9271,9 +9271,9 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 113325,
+                    "startOffset": 113330,
                     "endColumn": 89,
-                    "endOffset": 113410
+                    "endOffset": 113415
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9290,9 +9290,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 113415,
+                    "startOffset": 113420,
                     "endColumn": 109,
-                    "endOffset": 113520
+                    "endOffset": 113525
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9309,9 +9309,9 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 113525,
+                    "startOffset": 113530,
                     "endColumn": 83,
-                    "endOffset": 113604
+                    "endOffset": 113609
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9328,9 +9328,9 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 113609,
+                    "startOffset": 113614,
                     "endColumn": 83,
-                    "endOffset": 113688
+                    "endOffset": 113693
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9347,9 +9347,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 113693,
+                    "startOffset": 113698,
                     "endColumn": 53,
-                    "endOffset": 113742
+                    "endOffset": 113747
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9366,9 +9366,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 113747,
+                    "startOffset": 113752,
                     "endColumn": 63,
-                    "endOffset": 113806
+                    "endOffset": 113811
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9385,9 +9385,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 113811,
+                    "startOffset": 113816,
                     "endColumn": 105,
-                    "endOffset": 113912
+                    "endOffset": 113917
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9404,9 +9404,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 113917,
+                    "startOffset": 113922,
                     "endColumn": 109,
-                    "endOffset": 114022
+                    "endOffset": 114027
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9423,9 +9423,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 114027,
+                    "startOffset": 114032,
                     "endColumn": 83,
-                    "endOffset": 114106
+                    "endOffset": 114111
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
@@ -9442,9 +9442,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 114111,
+                    "startOffset": 114116,
                     "endColumn": 119,
-                    "endOffset": 114226
+                    "endOffset": 114231
                 },
                 "from": {
                     "file": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml",
