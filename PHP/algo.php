@@ -46,5 +46,6 @@
            exit;
          }
 
+         print_r($cName);
 //         $array[] = new array('~' => '~');    	//print array($results,$results2);   	//var $jsonArray = ["array" => array($results,$results2)]; 	 	//echo json_encode(array($results,$results2));   	echo json_encode(array_merge($results,$results2));  die();    mysql_close();
 ?>
