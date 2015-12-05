@@ -43,7 +43,7 @@ if ($check == 1) {
         header( "Location: dashboard.html");
     }
     else {
-        header("location: dashboard.php");
+        header("location: dashboard.html");
     }
 
 } else {
