@@ -46,6 +46,9 @@
            exit;
          }
 
+         echo '$vInterests test: ';
+         print_r($vInterests);
+         echo ' ';
          print_r($cName);
 
 
