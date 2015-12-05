@@ -11,14 +11,17 @@ public class Elderly {
     private String interest;
     private String gender;
     private String address;
-    private ArrayList<String> blackList = new ArrayList<String>();
-    private ArrayList<String> whiteList = new ArrayList<String>();
+    private String blackList;
+    private String whiteList;
 
 
-    public Elderly(String name,String gender,int age){
+    public Elderly(String name,String gender,int age,String address, String blackList, String whiteList){
         this.name = name;
         this.gender = gender;
         this.age = age;
+        this.address = address;
+        this.blackList = blackList;
+        this.whiteList = whiteList;
     }
 
     public String getName() {

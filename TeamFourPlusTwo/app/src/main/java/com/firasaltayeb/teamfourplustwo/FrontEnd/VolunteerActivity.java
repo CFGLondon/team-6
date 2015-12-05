@@ -4,12 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.SeekBar;
-import android.widget.Spinner;
 import android.widget.TextView;
 import com.firasaltayeb.teamfourplustwo.BackEnd.Volunteers;
 import com.firasaltayeb.teamfourplustwo.BackEnd.Volunteer;
@@ -18,12 +15,13 @@ import com.firasaltayeb.teamfourplustwo.R;
 public class VolunteerActivity extends AppCompatActivity {
 
     EditText nameEditTxt;
+    EditText editTxtAddress;
+    EditText editTxtBlack;
+    EditText editTxtWhite;
     RadioButton radioButtonM;
     RadioButton radioButtonF;
     SeekBar seekBar;
     TextView seekBarTxtView;
-    Spinner spinner;
-    ArrayAdapter<CharSequence> adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +30,9 @@ public class VolunteerActivity extends AppCompatActivity {
         radioButtonM = (RadioButton) findViewById(R.id.radioButtonM);
         radioButtonF = (RadioButton) findViewById(R.id.radioButtonF);
         nameEditTxt = (EditText) findViewById(R.id.nameEditTxt);
+        editTxtAddress = (EditText) findViewById(R.id.editTxtAddress);
+        editTxtBlack = (EditText) findViewById(R.id.editTxtBlack);
+        editTxtWhite = (EditText) findViewById(R.id.editTxtWhite);
 
         seekBar();
     }
@@ -65,6 +66,9 @@ public class VolunteerActivity extends AppCompatActivity {
      */
     public void saveMessage(View view) {
         String name = nameEditTxt.getText().toString();
+        String address = editTxtAddress.getText().toString();
+        String blackList = editTxtBlack.getText().toString();
+        String whiteList = editTxtWhite.getText().toString();
 
         String gender;
         if(radioButtonF.isChecked()){

@@ -4,12 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.SeekBar;
-import android.widget.Spinner;
 import android.widget.TextView;
 import com.firasaltayeb.teamfourplustwo.BackEnd.Elderlies;
 import com.firasaltayeb.teamfourplustwo.BackEnd.Elderly;
@@ -18,13 +15,15 @@ import com.firasaltayeb.teamfourplustwo.R;
 
 public class ElderlyActivity extends AppCompatActivity {
 
+
     EditText nameEditTxt;
+    EditText editTxtAddress;
+    EditText editTxtBlack;
+    EditText editTxtWhite;
     RadioButton radioButtonM;
     RadioButton radioButtonF;
     SeekBar seekBar;
     TextView seekBarTxtView;
-    Spinner spinner;
-    ArrayAdapter<CharSequence> adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,6 +32,9 @@ public class ElderlyActivity extends AppCompatActivity {
         radioButtonM = (RadioButton) findViewById(R.id.radioButtonM);
         radioButtonF = (RadioButton) findViewById(R.id.radioButtonF);
         nameEditTxt = (EditText) findViewById(R.id.nameEditTxt);
+        editTxtAddress = (EditText) findViewById(R.id.editTxtAddress);
+        editTxtBlack = (EditText) findViewById(R.id.editTxtBlack);
+        editTxtWhite = (EditText) findViewById(R.id.editTxtWhite);
 
         seekBar();
 
@@ -67,6 +69,9 @@ public class ElderlyActivity extends AppCompatActivity {
      */
     public void saveMessage(View view) {
         String name = nameEditTxt.getText().toString();
+        String address = editTxtAddress.getText().toString();
+        String blackList = editTxtBlack.getText().toString();
+        String whiteList = editTxtWhite.getText().toString();
 
         String gender;
         if(radioButtonF.isChecked()){
@@ -78,11 +83,15 @@ public class ElderlyActivity extends AppCompatActivity {
         int age = Integer.parseInt(seekBarTxtView.getText().toString());
 
         Log.d("name", name);
+        Log.d("address", address);
+        Log.d("blackList", blackList);
+        Log.d("whiteList", whiteList);
         Log.d("gender", gender);
         Log.d("Age", Integer.parseInt(seekBarTxtView.getText().toString()) + "");
 
 
-        Elderly elderly =  new Elderly(name,gender,age);
+
+        Elderly elderly =  new Elderly(name,gender,age,address,blackList,whiteList);
         Elderlies.AddElderlies(elderly);
 
     }
