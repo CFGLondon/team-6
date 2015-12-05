@@ -33,7 +33,7 @@ $check = mysql_num_rows($result);
 
 if ($check == 1) {
 
-    $sql2 = "SELECT * FROM volenteer Address";
+    $sql2 = "SELECT * FROM volunteer Address";
 
 
     $row = mysql_fetch_array($result);
