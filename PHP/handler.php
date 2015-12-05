@@ -21,7 +21,7 @@
   }
 
   try {
-      $STH = $DBH->prepare("INSERT INTO `volunteer` (`Username`, `Password`, `Address`, `Interests`, `Date`, `Black`, `White`) VALUES (:Username, :Password, :Address, :Interests, :Date, :Black, :White)");
+      $STH = $DBH->prepare("INSERT INTO `volunteer` (`Username`, `Password`, `Address`, `Interests`, `Date`, `Black`, `White`, `Reference1Name`, `Reference1Number`, `Reference2Name`, `Reference2Number`) VALUES (:Username, :Password, :Address, :Interests, :Date, :Black, :White, :Reference1Name, :Reference1Number, :Reference2Name, :Reference2Number)");
       $STH->bindParam(':Username', $username);
       $STH->bindParam(':Password', $password);
       $STH->bindParam(':Address', $address);
@@ -29,6 +29,10 @@
       $STH->bindParam(':Date', $date);
       $STH->bindParam(':Black', $black);
       $STH->bindParam(':White', $white);
+      $STH->bindParam(':Reference1Name', $Reference1Name);
+      $STH->bindParam(':Reference1Number', $Reference1Number);
+      $STH->bindParam(':Reference2Name', $Reference2Name);
+      $STH->bindParam(':Reference2Number', $Reference2Number);
 
       $username = $_POST['username'];
       $password = $_POST['password'];
@@ -36,6 +40,10 @@
       $interests = $_POST['interests'];
       $white = $_POST['white'];
       $black = $_POST['black'];
+      $Reference1Name = $_POST['Reference1Name'];
+      $Reference1Number = $_POST['Reference1Number'];
+      $Reference2Name = $_POST['Reference2Name'];
+      $Reference2Number = $_POST['Reference2Number'];
       $date = gmdate("Y-m-d H:i:s");
 
       if($STH->execute())
