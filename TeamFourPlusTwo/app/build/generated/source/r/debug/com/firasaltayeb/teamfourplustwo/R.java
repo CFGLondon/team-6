@@ -1596,7 +1596,9 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020042;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020043;
         public static final int abc_textfield_search_material=0x7f020044;
-        public static final int notification_template_icon_bg=0x7f020045;
+        public static final int background=0x7f020045;
+        public static final int nightcity=0x7f020046;
+        public static final int notification_template_icon_bg=0x7f020047;
     }
     public static final class id {
         public static final int action0=0x7f0d0066;
