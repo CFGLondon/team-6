@@ -19,8 +19,7 @@
                # showing the results
                while ($row = $STH->fetch()) {
                  $vid = $row->Volunteer_id;
-                 $vInterests[] = explode(", ", $row->Interests);
-                 $vInts = implode(" OR Interests LIKE ", $vInterests);
+                 $vInterests = $row->Interests;
                }
            }
          } catch (PDOException $e) {
@@ -28,7 +27,7 @@
            exit;
          }
 
-
+         $vInts = implode(" OR Interests LIKE ", explode(", ", $vInterests[0]));
 
          try{
            $STH = $DBH->prepare("SELECT * FROM constituents WHERE Interests LIKE '%$vInts%'");
