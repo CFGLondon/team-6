@@ -9,7 +9,14 @@ public class Elderly {
     private String name;
     private String interest;
     private int age;
+    private String gender;
     private ArrayList<String> blackList;
+
+    public Elderly(String name,String interest,int age){
+        this.name = name;
+        this.interest = interest;
+        this.age = age;
+    }
 
     public String getName() {
         return name;
@@ -41,5 +48,13 @@ public class Elderly {
 
     public void setBlackList(ArrayList<String> blackList) {
         this.blackList = blackList;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
     }
 }
