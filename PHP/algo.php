@@ -36,9 +36,9 @@
            if($STH->rowCount() > 0) {
                # showing the results
                while ($row = $STH->fetch()) {
-                 $cID = $row->Constituents_id;
-                 $cName = $row->Username;
-                 $cInterests = $row->Interests;
+                 $cID[] = $row->Constituents_id;
+                 $cName[] = $row->Username;
+                 $cInterests[] = $row->Interests;
                }
            }
          } catch (PDOException $e) {
