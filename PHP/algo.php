@@ -27,7 +27,7 @@
            exit;
          }
 
-         $vInts = implode(" OR Interests LIKE ", explode(", ", $vInterests[0]));
+         $vInts = implode(" OR Interests LIKE ", explode(", ", $vInterests));
 
          try{
            $STH = $DBH->prepare("SELECT * FROM constituents WHERE Interests LIKE '%$vInts%'");
@@ -46,12 +46,5 @@
            exit;
          }
 
-         echo '$vInterests test: ';
-         print_r($vInterests);
-         echo ' ';
-         print_r($cName);
-
-
-         echo 'vInts test: ' . $vInts;
 //         $array[] = new array('~' => '~');    	//print array($results,$results2);   	//var $jsonArray = ["array" => array($results,$results2)]; 	 	//echo json_encode(array($results,$results2));   	echo json_encode(array_merge($results,$results2));  die();    mysql_close();
 ?>
