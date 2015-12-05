@@ -21,18 +21,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        JSONObject jsonobject;
-//        jsonobject = JSONfunctions.getJSONfromURL("http:ec2-54-78-38-127.eu-west-1.compute.amazonaws.com");
-//        JSONArray jarray = jsonobject.names();
-//
-//        for(int i=0;i<jarray.length();i++){
-//            try {
-//                Log.e("parenttag", jarray.getString(i));
-//            } catch (JSONException e) {
-//                e.printStackTrace();
-//            }
-//
-//        }
+        JSONObject jsonobject;
+        jsonobject = JSONfunctions.getJSONfromURL("http:ec2-54-78-38-127.eu-west-1.compute.amazonaws.com");
 
     }
 
