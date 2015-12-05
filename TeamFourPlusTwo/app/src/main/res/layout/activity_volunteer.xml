@@ -12,16 +12,17 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true">
+        android:id="@+id/linearLayout2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
 
 
         <LinearLayout
             android:orientation="vertical"
             android:layout_width="175dp"
-            android:layout_height="match_parent"
-            android:layout_gravity="center_vertical"
+            android:layout_height="440dp"
             android:weightSum="1"
             android:id="@+id/linearLayout">
 
@@ -111,7 +112,7 @@
         <LinearLayout
             android:orientation="vertical"
             android:layout_width="175dp"
-            android:layout_height="match_parent"
+            android:layout_height="409dp"
             android:layout_centerVertical="true"
             android:layout_toRightOf="@+id/linearLayout"
             android:layout_toEndOf="@+id/linearLayout"
@@ -194,5 +195,14 @@
 
         </LinearLayout>
     </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Connect"
+        android:id="@+id/btnConnect"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_centerHorizontal="true"
+        android:onClick="connect"/>
 
 </RelativeLayout>
