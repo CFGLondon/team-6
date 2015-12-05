@@ -25,6 +25,7 @@
         </activity>
         <activity android:name="com.firasaltayeb.teamfourplustwo.FrontEnd.VolunteerActivity" />
         <activity android:name="com.firasaltayeb.teamfourplustwo.FrontEnd.ElderlyActivity" />
+        <activity android:name="com.firasaltayeb.teamfourplustwo.FrontEnd.ResultActivity" />
     </application>
 
 </manifest>
