@@ -34,24 +34,6 @@ public class VolunteerActivity extends AppCompatActivity {
         nameEditTxt = (EditText) findViewById(R.id.nameEditTxt);
 
         seekBar();
-
-        spinner = (Spinner) findViewById(R.id.spinner);
-        adapter = ArrayAdapter.createFromResource(this, R.array.Colors, android.R.layout.simple_spinner_item);
-        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        spinner.setAdapter(adapter);
-        spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-            @Override
-            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                //linearLayout.setBackgroundColor(Color.RED);
-                //Log.d("color", parent.getItemAtPosition(position) + "");
-            }
-
-            @Override
-            public void onNothingSelected(AdapterView<?> parent) {
-
-            }
-        });
-
     }
 
     public void seekBar() {

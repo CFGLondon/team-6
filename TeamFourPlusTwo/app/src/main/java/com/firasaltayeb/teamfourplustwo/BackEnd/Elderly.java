@@ -8,9 +8,12 @@ import java.util.ArrayList;
 public class Elderly {
     private String name;
     private int age;
-    private String gender;
     private String interest;
-    private ArrayList<String> blackList;
+    private String gender;
+    private String address;
+    private ArrayList<String> blackList = new ArrayList<String>();
+    private ArrayList<String> whiteList = new ArrayList<String>();
+
 
     public Elderly(String name,String gender,int age){
         this.name = name;
@@ -26,14 +29,6 @@ public class Elderly {
         this.name = name;
     }
 
-    public String getInterest() {
-        return interest;
-    }
-
-    public void setInterest(String interest) {
-        this.interest = interest;
-    }
-
     public int getAge() {
         return age;
     }
@@ -42,12 +37,12 @@ public class Elderly {
         this.age = age;
     }
 
-    public ArrayList<String> getBlackList() {
-        return blackList;
+    public String getInterest() {
+        return interest;
     }
 
-    public void setBlackList(ArrayList<String> blackList) {
-        this.blackList = blackList;
+    public void setInterest(String interest) {
+        this.interest = interest;
     }
 
     public String getGender() {
@@ -56,5 +51,13 @@ public class Elderly {
 
     public void setGender(String gender) {
         this.gender = gender;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
     }
 }
