@@ -94,7 +94,13 @@ public class ElderlyActivity extends AppCompatActivity {
 
         int age = Integer.parseInt(seekBarTxtView.getText().toString());
 
+        Log.d("name", name);
+        Log.d("gender", gender);
+        Log.d("Age", Integer.parseInt(seekBarTxtView.getText().toString()) + "");
+
+
         Elderly elderly =  new Elderly(name,gender,age);
         Elderlies.AddElderlies(elderly);
+
     }
 }

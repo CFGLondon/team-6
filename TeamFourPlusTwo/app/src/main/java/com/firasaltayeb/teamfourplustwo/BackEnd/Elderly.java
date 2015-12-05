@@ -14,7 +14,7 @@ public class Elderly {
 
     public Elderly(String name,String gender,int age){
         this.name = name;
-        this.interest = gender;
+        this.gender = gender;
         this.age = age;
     }
 
