@@ -1,0 +1,8 @@
+label {
+	width: 50px;
+	float: left;
+}
+
+p input:first-child {
+	margin: 0px 0px 0px 50px;
+}
