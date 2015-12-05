@@ -7,22 +7,22 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.firasaltayeb.lessonfour.MainActivity"
-    android:background="@drawable/background">
+    tools:context="com.firasaltayeb.lessonfour.MainActivity">
 
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true">
+        android:id="@+id/linearLayout2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
 
 
         <LinearLayout
             android:orientation="vertical"
             android:layout_width="175dp"
-            android:layout_height="match_parent"
-            android:layout_gravity="center_vertical"
+            android:layout_height="440dp"
             android:weightSum="1"
             android:id="@+id/linearLayout">
 
@@ -34,8 +34,7 @@
                 android:text="First name"
                 android:id="@+id/txtViewFirstName"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.1"
-                android:textColor="#ffffff" />
+                android:layout_weight="0.1" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -44,8 +43,7 @@
                 android:text="Last name"
                 android:id="@+id/txtViewLastName"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.05"
-                android:textColor="#ffffff" />
+                android:layout_weight="0.05" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -54,8 +52,7 @@
                 android:text="Age"
                 android:id="@+id/ageTxtView"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.2"
-                android:textColor="#ffffff" />
+                android:layout_weight="0.2" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -64,8 +61,7 @@
                 android:text="Interest"
                 android:id="@+id/txtViewIneterst"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.05"
-                android:textColor="#ffffff" />
+                android:layout_weight="0.05" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -74,8 +70,7 @@
                 android:text="Gender"
                 android:id="@+id/genderTxtView"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.05"
-                android:textColor="#ffffff" />
+                android:layout_weight="0.05" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -84,8 +79,7 @@
                 android:text="Address"
                 android:id="@+id/txtViewAddress"
                 android:layout_weight="0.1"
-                android:layout_gravity="center_horizontal"
-                android:textColor="#ffffff" />
+                android:layout_gravity="center_horizontal" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -94,8 +88,7 @@
                 android:text="Black List"
                 android:id="@+id/txtViewBlack"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.1"
-                android:textColor="#ffffff" />
+                android:layout_weight="0.1" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -104,8 +97,7 @@
                 android:text="White List"
                 android:id="@+id/txtViewWhite"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.05"
-                android:textColor="#ffffff" />
+                android:layout_weight="0.05" />
 
             <Button
                 android:layout_width="wrap_content"
@@ -120,7 +112,7 @@
         <LinearLayout
             android:orientation="vertical"
             android:layout_width="175dp"
-            android:layout_height="match_parent"
+            android:layout_height="409dp"
             android:layout_centerVertical="true"
             android:layout_toRightOf="@+id/linearLayout"
             android:layout_toEndOf="@+id/linearLayout"
@@ -152,8 +144,7 @@
                 android:textAppearance="?android:attr/textAppearanceLarge"
                 android:text="SeekBar"
                 android:id="@+id/seekBarTxtView"
-                android:layout_gravity="center_horizontal"
-                android:textColor="#ffffff" />
+                android:layout_gravity="center_horizontal" />
 
             <EditText
                 android:layout_width="match_parent"
@@ -172,8 +163,7 @@
                     android:layout_height="wrap_content"
                     android:text="M"
                     android:id="@+id/radioButtonM"
-                    android:checked="true"
-                    android:textColor="#ffffff" />
+                    android:checked="true" />
 
                 <RadioButton
                     android:layout_width="wrap_content"
@@ -181,8 +171,7 @@
                     android:text="F"
                     android:id="@+id/radioButtonF"
                     android:checked="false"
-                    android:layout_gravity="center_horizontal"
-                    android:textColor="#ffffff" />
+                    android:layout_gravity="center_horizontal" />
             </RadioGroup>
 
             <EditText
@@ -206,5 +195,13 @@
 
         </LinearLayout>
     </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Connect"
+        android:id="@+id/btnConnect"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

@@ -90,10 +90,11 @@ public class VolunteerActivity extends AppCompatActivity {
         Log.d("gender", gender);
         Log.d("Age", Integer.parseInt(seekBarTxtView.getText().toString()) + "");
 
-
-
         Volunteer volunteer =  new Volunteer(firstName,lastName,gender,age,address,blackList,whiteList);
         Volunteers.AddVolunteers(volunteer);
 
+    }
+
+    public void connect(View view) {
     }
 }
