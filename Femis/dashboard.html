@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Application Page</title>
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400" rel="stylesheet" />
+	<script src="js/jquery-1.9.1.min.js"></script>
+	<script src="css/5grid/init.js?use=mobile,desktop"></script>
+	<script src="js/jquery.formerize-1.1.js"></script>
+	<script src="js/init.js"></script>
+<noscript>
+	<link rel="stylesheet" href="css/5grid/core.css" />
+	<link rel="stylesheet" href="css/5grid/core-desktop.css" />
+	<link rel="stylesheet" href="css/5grid/core-1200px.css" />
+	<link rel="stylesheet" href="css/5grid/core-noscript.css" />
+	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/style-desktop.css" />
+	<link rel="stylesheet" href="css/noscript.css" />
+</noscript>
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+
+</head>
+<body class="homepage">
+
+		<!-- Wrapper-->
+			<div id="wrapper">
+				
+				<!-- Nav -->
+					<nav id="nav">
+						<a href="#me" class="icon icon-user active"><span>Blog</span></a>
+						<a href="#work" class="icon icon-folder"><span>Work</span></a>
+						<a href="#email" class="icon icon-mail"><span>Login</span></a>
+						
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						
+						<!-- Me -->
+							<article id="me" class="panel">
+								<header>
+									<h1>Team 4 + 2</h1>
+									<span class="byline">Age UK</span>
+								</header>
+								<a href="#work" class="jumplink pic">
+									<span class="jumplink arrow icon icon-right"><span>See my work</span></span>
+									<img src="images/cake.jpg"  alt=""/>
+								</a>
+							</article>
+
+						<!-- Work --> 
+							<article id="work" class="panel">
+								<header>
+									<h2>Work</h2>
+								</header>
+								<form method="post" action="addentry.php" onreset="return confirm('Are You Sure?')">
+
+    <p>
+        <label for="month"><strong>Date: </strong>
+            <select name="month" id="month">
+                <option value="Month">Month</option>
+                <option value="January">January</option>
+                <option value="February">February</option>
+                <option value="March">March</option>
+                <option value="April">April</option>
+                <option value="May">May</option>
+                <option value="June">June</option>
+                <option value="July">July</option>
+                <option value="August">August</option>
+                <option value="September">September</option>
+                <option value="October">October</option>
+                <option value="November">November</option>
+                <option value="December">December</option>
+            </select>
+        </label>
+
+        <input type="text" name="date" id="date" size="2" />
+
+        <select name="year" id="year">
+            <option value="2013">2013</option>
+            <option value="2012">2012</option>
+            <option value="2011">2011</option>
+            <option value="2010">2010</option>
+            <option value="2009">2009</option>
+            <option value="2008">2008</option>
+            <option value="2007">2007</option>
+            <option value="2006">2006</option>
+            <option value="2005">2005</option>
+            <option value="2004">2004</option>
+        </select>
+
+    </p>
+
+    <p>
+        <label for="title"><strong>Title: </strong>
+            <input type="text" name="title" id="title" size="40" />
+        </label>
+    </p>
+    <p>
+        <textarea cols="80" rows="20" name="entry" id="entry"></textarea></p>
+    <p>
+        <input type="submit" name="submit" id="submit" value="Submit">
+        <input type="reset" name="clear" id="clear" value="Clear" >
+    </p>
+
+</form>
+							</article>
+
+						<!-- Email -->
+							<article id="email" class="panel">
+								<header>
+									<h2>Login</h2>
+								</header>
+								<form action="login.php" method="post">
+      <label for="username">Username:</label>
+      <input name="username" type="text" id="username" />
+      <br />
+      <label for="password">Password:</label><input name="password" type="password" id="password" />
+      <br />
+      <div class="submit">
+        <input type="submit" value="Next" />
+      </div>
+    </form>
+							</article>
+
+					</div>
+		
+				<!-- Footer -->
+					<div id="footer">
+						<ul class="links">
+							<li>&copy; Team 4+ 2</li>
+
+							
+						</ul>
+					</div>
+		
+			</div>
+
+	</body>
+</html>
