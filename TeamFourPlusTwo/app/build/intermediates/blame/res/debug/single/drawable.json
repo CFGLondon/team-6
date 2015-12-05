@@ -56,6 +56,10 @@
         "source": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/res/merged/debug/drawable/background.jpg",
+        "source": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/src/main/res/drawable/background.jpg"
+    },
+    {
         "merged": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
@@ -78,6 +82,10 @@
     {
         "merged": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/res/merged/debug/drawable/nightcity.jpg",
+        "source": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/src/main/res/drawable/nightcity.jpg"
     },
     {
         "merged": "/Users/firasAltayeb/Desktop/team-6/TeamFourPlusTwo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",

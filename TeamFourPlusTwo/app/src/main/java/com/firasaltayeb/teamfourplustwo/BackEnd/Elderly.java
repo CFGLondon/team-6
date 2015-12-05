@@ -6,32 +6,40 @@ import java.util.ArrayList;
  * Created by firasAltayeb on 04/12/2015.
  */
 public class Elderly {
-    private String name;
+    private String firstName;
+    private String lastName;
     private int age;
-    private String gender;
     private String interest;
-    private ArrayList<String> blackList;
+    private String gender;
+    private String address;
+    private String blackList;
+    private String whiteList;
 
-    public Elderly(String name,String gender,int age){
-        this.name = name;
+
+    public Elderly(String firstName,String lastName,String gender,int age,String address, String blackList, String whiteList){
+        this.firstName = firstName;
+        this.lastName = lastName;
         this.gender = gender;
         this.age = age;
+        this.address = address;
+        this.blackList = blackList;
+        this.whiteList = whiteList;
     }
 
-    public String getName() {
-        return name;
+    public String getFirstName() {
+        return firstName;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
     }
 
-    public String getInterest() {
-        return interest;
+    public String getLastName() {
+        return lastName;
     }
 
-    public void setInterest(String interest) {
-        this.interest = interest;
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
     }
 
     public int getAge() {
@@ -42,12 +50,12 @@ public class Elderly {
         this.age = age;
     }
 
-    public ArrayList<String> getBlackList() {
-        return blackList;
+    public String getInterest() {
+        return interest;
     }
 
-    public void setBlackList(ArrayList<String> blackList) {
-        this.blackList = blackList;
+    public void setInterest(String interest) {
+        this.interest = interest;
     }
 
     public String getGender() {
@@ -56,5 +64,29 @@ public class Elderly {
 
     public void setGender(String gender) {
         this.gender = gender;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public String getBlackList() {
+        return blackList;
+    }
+
+    public void setBlackList(String blackList) {
+        this.blackList = blackList;
+    }
+
+    public String getWhiteList() {
+        return whiteList;
+    }
+
+    public void setWhiteList(String whiteList) {
+        this.whiteList = whiteList;
     }
 }

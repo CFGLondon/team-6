@@ -4,12 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.SeekBar;
-import android.widget.Spinner;
 import android.widget.TextView;
 import com.firasaltayeb.teamfourplustwo.BackEnd.Volunteers;
 import com.firasaltayeb.teamfourplustwo.BackEnd.Volunteer;
@@ -17,13 +14,15 @@ import com.firasaltayeb.teamfourplustwo.R;
 
 public class VolunteerActivity extends AppCompatActivity {
 
-    EditText nameEditTxt;
+    EditText editTxtFirstName;
+    EditText editTxtLastName;
+    EditText editTxtAddress;
+    EditText editTxtBlack;
+    EditText editTxtWhite;
     RadioButton radioButtonM;
     RadioButton radioButtonF;
     SeekBar seekBar;
     TextView seekBarTxtView;
-    Spinner spinner;
-    ArrayAdapter<CharSequence> adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,27 +30,13 @@ public class VolunteerActivity extends AppCompatActivity {
         setContentView(R.layout.activity_volunteer);
         radioButtonM = (RadioButton) findViewById(R.id.radioButtonM);
         radioButtonF = (RadioButton) findViewById(R.id.radioButtonF);
-        nameEditTxt = (EditText) findViewById(R.id.nameEditTxt);
+        editTxtFirstName = (EditText) findViewById(R.id.editTxtFirstName);
+        editTxtLastName = (EditText) findViewById(R.id.editTxtLastName);
+        editTxtAddress = (EditText) findViewById(R.id.editTxtAddress);
+        editTxtBlack = (EditText) findViewById(R.id.editTxtBlack);
+        editTxtWhite = (EditText) findViewById(R.id.editTxtWhite);
 
         seekBar();
-
-        spinner = (Spinner) findViewById(R.id.spinner);
-        adapter = ArrayAdapter.createFromResource(this, R.array.Colors, android.R.layout.simple_spinner_item);
-        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        spinner.setAdapter(adapter);
-        spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-            @Override
-            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                //linearLayout.setBackgroundColor(Color.RED);
-                //Log.d("color", parent.getItemAtPosition(position) + "");
-            }
-
-            @Override
-            public void onNothingSelected(AdapterView<?> parent) {
-
-            }
-        });
-
     }
 
     public void seekBar() {
@@ -82,7 +67,11 @@ public class VolunteerActivity extends AppCompatActivity {
      * Called when the user clicks the Save button
      */
     public void saveMessage(View view) {
-        String name = nameEditTxt.getText().toString();
+        String firstName = editTxtFirstName.getText().toString();
+        String lastName = editTxtLastName.getText().toString();
+        String address = editTxtAddress.getText().toString();
+        String blackList = editTxtBlack.getText().toString();
+        String whiteList = editTxtWhite.getText().toString();
 
         String gender;
         if(radioButtonF.isChecked()){
@@ -93,12 +82,17 @@ public class VolunteerActivity extends AppCompatActivity {
 
         int age = Integer.parseInt(seekBarTxtView.getText().toString());
 
-        Log.d("name", name);
+        Log.d("firstName", firstName);
+        Log.d("lastName", lastName);
+        Log.d("address", address);
+        Log.d("blackList", blackList);
+        Log.d("whiteList", whiteList);
         Log.d("gender", gender);
         Log.d("Age", Integer.parseInt(seekBarTxtView.getText().toString()) + "");
 
 
-        Volunteer volunteer =  new Volunteer(name,gender,age);
+
+        Volunteer volunteer =  new Volunteer(firstName,lastName,gender,age,address,blackList,whiteList);
         Volunteers.AddVolunteers(volunteer);
 
     }

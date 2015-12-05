@@ -22,8 +22,8 @@ public class Volunteers {
 
     public static void isVolunteersExist(Volunteer volunteer){
         for(Volunteer volunteerliesItem : VolunteersArray) {
-            if (volunteerliesItem.getName().equals(volunteer.getName()) && volunteerliesItem.getGender().equals(volunteer.getGender())
-                    && volunteerliesItem.getAge() == volunteer.getAge()) {
+            if (volunteerliesItem.getFirstName().equals(volunteer.getFirstName()) &&
+                    volunteerliesItem.getLastName().equals(volunteer.getLastName())) {
                 contains = true;
                 break;
             }

@@ -22,8 +22,8 @@ public class Elderlies {
 
     public static void iselderExist(Elderly elderly){
         for(Elderly elderliesItem : ElderliesArray) {
-            if (elderliesItem.getName().equals(elderly.getName()) && elderliesItem.getGender().equals(elderly.getGender())
-                    && elderliesItem.getAge() == elderly.getAge()) {
+            if (elderliesItem.getFirstName().equals(elderly.getFirstName()) &&
+                    elderliesItem.getLastName().equals(elderly.getLastName())) {
                 contains = true;
                 break;
             }

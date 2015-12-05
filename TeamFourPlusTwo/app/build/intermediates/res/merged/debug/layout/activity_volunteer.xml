@@ -7,7 +7,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.firasaltayeb.lessonfour.MainActivity">
+    tools:context="com.firasaltayeb.lessonfour.MainActivity"
+    android:background="@drawable/background">
 
     <LinearLayout
         android:orientation="horizontal"
@@ -30,10 +31,21 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceLarge"
-                android:text="Name"
-                android:id="@+id/nameTxtView"
+                android:text="First name"
+                android:id="@+id/txtViewFirstName"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.05" />
+                android:layout_weight="0.1"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Last name"
+                android:id="@+id/txtViewLastName"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.05"
+                android:textColor="#ffffff" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -42,7 +54,18 @@
                 android:text="Age"
                 android:id="@+id/ageTxtView"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.1" />
+                android:layout_weight="0.2"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Interest"
+                android:id="@+id/txtViewIneterst"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.05"
+                android:textColor="#ffffff" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -51,21 +74,43 @@
                 android:text="Gender"
                 android:id="@+id/genderTxtView"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.05" />
+                android:layout_weight="0.05"
+                android:textColor="#ffffff" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceLarge"
-                android:text="FavouriteColor"
-                android:id="@+id/favColorTxtView"
+                android:text="Address"
+                android:id="@+id/txtViewAddress"
+                android:layout_weight="0.1"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.05" />
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Black List"
+                android:id="@+id/txtViewBlack"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.1"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="White List"
+                android:id="@+id/txtViewWhite"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.05"
+                android:textColor="#ffffff" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Next"
+                android:text="Save"
                 android:id="@+id/nextId"
                 android:layout_gravity="center_horizontal"
                 android:layout_weight="0.05"
@@ -86,7 +131,13 @@
                 android:layout_height="wrap_content"
                 android:inputType="textPersonName"
                 android:ems="10"
-                android:id="@+id/nameEditTxt"
+                android:id="@+id/editTxtFirstName"
+                android:layout_gravity="center_horizontal" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTxtLastName"
                 android:layout_gravity="center_horizontal" />
 
             <SeekBar
@@ -102,7 +153,14 @@
                 android:text="SeekBar"
                 android:id="@+id/seekBarTxtView"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.05" />
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTxtInterest"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0" />
 
             <RadioGroup
                 android:layout_width="104dp"
@@ -114,7 +172,8 @@
                     android:layout_height="wrap_content"
                     android:text="M"
                     android:id="@+id/radioButtonM"
-                    android:checked="true" />
+                    android:checked="true"
+                    android:textColor="#ffffff" />
 
                 <RadioButton
                     android:layout_width="wrap_content"
@@ -122,14 +181,28 @@
                     android:text="F"
                     android:id="@+id/radioButtonF"
                     android:checked="false"
-                    android:layout_gravity="center_horizontal" />
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#ffffff" />
             </RadioGroup>
 
-            <Spinner
+            <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/spinner"
+                android:id="@+id/editTxtAddress"
                 android:layout_gravity="center_horizontal" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTxtBlack"
+                android:layout_gravity="center_horizontal" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTxtWhite"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.09" />
 
         </LinearLayout>
     </LinearLayout>
