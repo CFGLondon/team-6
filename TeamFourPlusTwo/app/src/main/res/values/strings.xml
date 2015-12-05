@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LessonFour</string>
+    <string-array name="Colors">
+        <item>BLACK</item>
+        <item>BLUE</item>
+        <item>GRAY</item>
+        <item>GREEN</item>
+        <item>RED</item>
+        <item>WHITE</item>
+        <item>YELLOW</item>
+    </string-array>
+</resources>
