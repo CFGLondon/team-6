@@ -16,11 +16,12 @@ public class Elderly {
     private String whiteList;
 
 
-    public Elderly(String firstName,String lastName,String gender,int age,String address, String blackList, String whiteList){
+    public Elderly(String firstName,String lastName,String gender,int age,String interest,String address, String blackList, String whiteList){
         this.firstName = firstName;
         this.lastName = lastName;
         this.gender = gender;
         this.age = age;
+        this.interest = interest;
         this.address = address;
         this.blackList = blackList;
         this.whiteList = whiteList;

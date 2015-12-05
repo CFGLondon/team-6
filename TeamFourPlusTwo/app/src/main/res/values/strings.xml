@@ -9,4 +9,5 @@
         <item>WHITE</item>
         <item>YELLOW</item>
     </string-array>
+    <string name="title_activity_secound">SecoundActivity</string>
 </resources>

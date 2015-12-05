@@ -21,9 +21,9 @@ public class Volunteers {
     }
 
     public static void isVolunteersExist(Volunteer volunteer){
-        for(Volunteer volunteerliesItem : VolunteersArray) {
-            if (volunteerliesItem.getFirstName().equals(volunteer.getFirstName()) &&
-                    volunteerliesItem.getLastName().equals(volunteer.getLastName())) {
+        for(Volunteer volunteersItem : VolunteersArray) {
+            if (volunteersItem.getFirstName().equals(volunteer.getFirstName()) &&
+                    volunteersItem.getLastName().equals(volunteer.getLastName())) {
                 contains = true;
                 break;
             }

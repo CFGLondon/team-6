@@ -34,7 +34,7 @@
                 android:text="First name"
                 android:id="@+id/txtViewFirstName"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.1" />
+                android:layout_weight="0.15" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -52,7 +52,7 @@
                 android:text="Age"
                 android:id="@+id/ageTxtView"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.2" />
+                android:layout_weight="0.3" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -202,6 +202,7 @@
         android:text="Connect"
         android:id="@+id/btnConnect"
         android:layout_below="@+id/linearLayout2"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="connect"/>
 
 </RelativeLayout>

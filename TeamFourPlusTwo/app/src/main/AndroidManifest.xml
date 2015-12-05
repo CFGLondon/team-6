@@ -9,6 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <uses-permission android:name="android.permission.INTERNET" />
+
         <activity android:name=".FrontEnd.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,7 +18,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".FrontEnd.VolunteerActivity" />
-        <activity android:name=".FrontEnd.ElderlyActivity"></activity>
+        <activity android:name=".FrontEnd.ElderlyActivity" />
+        <activity android:name=".FrontEnd.ResultActivity"></activity>
     </application>
 
 </manifest>
