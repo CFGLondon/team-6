@@ -1,0 +1,36 @@
+package com.firasaltayeb.teamfourplustwo.BackEnd;
+
+import android.util.Log;
+
+import java.util.ArrayList;
+
+/**
+ * Created by firasAltayeb on 05/12/2015.
+ */
+public class Volunteers {
+
+    static boolean contains;
+    static public ArrayList<Volunteer> VolunteersArray = new ArrayList<>();
+
+    static public void AddVolunteers(Volunteer volunteer){
+        isVolunteersExist(volunteer);
+        if(!contains) {
+            VolunteersArray.add(volunteer);
+        }
+        Log.d("number of elderlies", VolunteersArray.size() + "");
+    }
+
+    public static void isVolunteersExist(Volunteer volunteer){
+        for(Volunteer VolunteerliesItem : VolunteersArray) {
+            if (VolunteerliesItem.getName().equals(volunteer.getName()) && VolunteerliesItem.getGender().equals(volunteer.getGender())
+                    && VolunteerliesItem.getAge() == volunteer.getAge()) {
+                contains = true;
+                break;
+            }
+            else {
+                contains = false;
+            }
+        }
+    }
+
+}

@@ -9,8 +9,15 @@ import java.util.ArrayList;
 public class Volunteer {
     private String name;
     private String interest;
+    private String gender;
     private int age;
     private ArrayList<String> blackList;
+
+    public Volunteer(String name,String gender,int age){
+        this.name = name;
+        this.gender = gender;
+        this.age = age;
+    }
 
     public String getName() {
         return name;
@@ -42,5 +49,13 @@ public class Volunteer {
 
     public void setBlackList(ArrayList<String> blackList) {
         this.blackList = blackList;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
     }
 }
