@@ -12,11 +12,11 @@ import com.firasaltayeb.teamfourplustwo.BackEnd.Elderlies;
 import com.firasaltayeb.teamfourplustwo.BackEnd.Elderly;
 import com.firasaltayeb.teamfourplustwo.R;
 
-
 public class ElderlyActivity extends AppCompatActivity {
 
 
-    EditText nameEditTxt;
+    EditText editTxtFirstName;
+    EditText editTxtLastName;
     EditText editTxtAddress;
     EditText editTxtBlack;
     EditText editTxtWhite;
@@ -31,7 +31,8 @@ public class ElderlyActivity extends AppCompatActivity {
         setContentView(R.layout.activity_elderly);
         radioButtonM = (RadioButton) findViewById(R.id.radioButtonM);
         radioButtonF = (RadioButton) findViewById(R.id.radioButtonF);
-        nameEditTxt = (EditText) findViewById(R.id.nameEditTxt);
+        editTxtFirstName = (EditText) findViewById(R.id.editTxtFirstName);
+        editTxtLastName = (EditText) findViewById(R.id.editTxtLastName);
         editTxtAddress = (EditText) findViewById(R.id.editTxtAddress);
         editTxtBlack = (EditText) findViewById(R.id.editTxtBlack);
         editTxtWhite = (EditText) findViewById(R.id.editTxtWhite);
@@ -68,7 +69,8 @@ public class ElderlyActivity extends AppCompatActivity {
      * Called when the user clicks the Save button
      */
     public void saveMessage(View view) {
-        String name = nameEditTxt.getText().toString();
+        String firstName = editTxtFirstName.getText().toString();
+        String lastName = editTxtLastName.getText().toString();
         String address = editTxtAddress.getText().toString();
         String blackList = editTxtBlack.getText().toString();
         String whiteList = editTxtWhite.getText().toString();
@@ -82,7 +84,8 @@ public class ElderlyActivity extends AppCompatActivity {
 
         int age = Integer.parseInt(seekBarTxtView.getText().toString());
 
-        Log.d("name", name);
+        Log.d("firstName", firstName);
+        Log.d("lastName", lastName);
         Log.d("address", address);
         Log.d("blackList", blackList);
         Log.d("whiteList", whiteList);
@@ -91,7 +94,7 @@ public class ElderlyActivity extends AppCompatActivity {
 
 
 
-        Elderly elderly =  new Elderly(name,gender,age,address,blackList,whiteList);
+        Elderly elderly =  new Elderly(firstName,lastName,gender,age,address,blackList,whiteList);
         Elderlies.AddElderlies(elderly);
 
     }

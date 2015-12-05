@@ -30,8 +30,17 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceLarge"
-                android:text="Name"
-                android:id="@+id/nameTxtView"
+                android:text="First name"
+                android:id="@+id/txtViewFirstName"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Last name"
+                android:id="@+id/txtViewLastName"
                 android:layout_gravity="center_horizontal"
                 android:layout_weight="0.05" />
 
@@ -113,7 +122,13 @@
                 android:layout_height="wrap_content"
                 android:inputType="textPersonName"
                 android:ems="10"
-                android:id="@+id/nameEditTxt"
+                android:id="@+id/editTxtFirstName"
+                android:layout_gravity="center_horizontal" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTxtLastName"
                 android:layout_gravity="center_horizontal" />
 
             <SeekBar
@@ -135,7 +150,7 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/editTxtInterest"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.05" />
+                android:layout_weight="0" />
 
             <RadioGroup
                 android:layout_width="104dp"

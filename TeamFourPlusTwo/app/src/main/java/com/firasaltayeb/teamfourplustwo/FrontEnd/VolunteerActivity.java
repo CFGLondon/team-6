@@ -14,7 +14,8 @@ import com.firasaltayeb.teamfourplustwo.R;
 
 public class VolunteerActivity extends AppCompatActivity {
 
-    EditText nameEditTxt;
+    EditText editTxtFirstName;
+    EditText editTxtLastName;
     EditText editTxtAddress;
     EditText editTxtBlack;
     EditText editTxtWhite;
@@ -29,7 +30,8 @@ public class VolunteerActivity extends AppCompatActivity {
         setContentView(R.layout.activity_volunteer);
         radioButtonM = (RadioButton) findViewById(R.id.radioButtonM);
         radioButtonF = (RadioButton) findViewById(R.id.radioButtonF);
-        nameEditTxt = (EditText) findViewById(R.id.nameEditTxt);
+        editTxtFirstName = (EditText) findViewById(R.id.editTxtFirstName);
+        editTxtLastName = (EditText) findViewById(R.id.editTxtLastName);
         editTxtAddress = (EditText) findViewById(R.id.editTxtAddress);
         editTxtBlack = (EditText) findViewById(R.id.editTxtBlack);
         editTxtWhite = (EditText) findViewById(R.id.editTxtWhite);
@@ -65,7 +67,8 @@ public class VolunteerActivity extends AppCompatActivity {
      * Called when the user clicks the Save button
      */
     public void saveMessage(View view) {
-        String name = nameEditTxt.getText().toString();
+        String firstName = editTxtFirstName.getText().toString();
+        String lastName = editTxtLastName.getText().toString();
         String address = editTxtAddress.getText().toString();
         String blackList = editTxtBlack.getText().toString();
         String whiteList = editTxtWhite.getText().toString();
@@ -79,12 +82,17 @@ public class VolunteerActivity extends AppCompatActivity {
 
         int age = Integer.parseInt(seekBarTxtView.getText().toString());
 
-        Log.d("name", name);
+        Log.d("firstName", firstName);
+        Log.d("lastName", lastName);
+        Log.d("address", address);
+        Log.d("blackList", blackList);
+        Log.d("whiteList", whiteList);
         Log.d("gender", gender);
         Log.d("Age", Integer.parseInt(seekBarTxtView.getText().toString()) + "");
 
 
-        Volunteer volunteer =  new Volunteer(name,gender,age);
+
+        Volunteer volunteer =  new Volunteer(firstName,lastName,gender,age,address,blackList,whiteList);
         Volunteers.AddVolunteers(volunteer);
 
     }
