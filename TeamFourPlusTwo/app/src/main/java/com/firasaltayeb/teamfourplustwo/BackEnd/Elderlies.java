@@ -1,5 +1,7 @@
 package com.firasaltayeb.teamfourplustwo.BackEnd;
 
+import android.util.Log;
+
 import java.util.ArrayList;
 
 /**
@@ -7,10 +9,10 @@ import java.util.ArrayList;
  */
 public class Elderlies {
 
-    private ArrayList<Elderly> Elderlies;
+    static public ArrayList<Elderly> ElderliesArray = new ArrayList<>();
 
-    public Elderlies(){
-
-
+    static public void AddElderlies(Elderly elderly){
+        ElderliesArray.add(elderly);
+        Log.d("number of elderlies",ElderliesArray.size() + "");
     }
 }

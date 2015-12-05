@@ -7,14 +7,14 @@ import java.util.ArrayList;
  */
 public class Elderly {
     private String name;
-    private String interest;
     private int age;
     private String gender;
+    private String interest;
     private ArrayList<String> blackList;
 
-    public Elderly(String name,String interest,int age){
+    public Elderly(String name,String gender,int age){
         this.name = name;
-        this.interest = interest;
+        this.interest = gender;
         this.age = age;
     }
 

@@ -2,20 +2,23 @@ package com.firasaltayeb.teamfourplustwo.FrontEnd;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.SeekBar;
 import android.widget.Spinner;
 import android.widget.TextView;
-
+import com.firasaltayeb.teamfourplustwo.BackEnd.Elderlies;
 import com.firasaltayeb.teamfourplustwo.BackEnd.Elderly;
 import com.firasaltayeb.teamfourplustwo.R;
 
 
 public class ElderlyActivity extends AppCompatActivity {
 
+    EditText nameEditTxt;
     RadioButton radioButtonM;
     RadioButton radioButtonF;
     SeekBar seekBar;
@@ -29,6 +32,7 @@ public class ElderlyActivity extends AppCompatActivity {
         setContentView(R.layout.activity_elderly);
         radioButtonM = (RadioButton) findViewById(R.id.radioButtonM);
         radioButtonF = (RadioButton) findViewById(R.id.radioButtonF);
+        nameEditTxt = (EditText) findViewById(R.id.nameEditTxt);
 
         seekBar();
 
@@ -76,10 +80,21 @@ public class ElderlyActivity extends AppCompatActivity {
     }
 
     /**
-     * Called when the user clicks the Send button
+     * Called when the user clicks the Save button
      */
     public void saveMessage(View view) {
-        
+        String name = nameEditTxt.getText().toString();
 
+        String gender;
+        if(radioButtonF.isChecked()){
+            gender = "Female";
+        }else{
+            gender = "male";
+        }
+
+        int age = Integer.parseInt(seekBarTxtView.getText().toString());
+
+        Elderly elderly =  new Elderly(name,gender,age);
+        Elderlies.AddElderlies(elderly);
     }
 }
