@@ -19,7 +19,8 @@
                # showing the results
                while ($row = $STH->fetch()) {
                  $vid = $row->Volunteer_id;
-                 $vInterests = $row->Interests;
+                 $vInterests[] = explode(", ", $row->Interests);
+                 $vInts = implode(" OR Interests LIKE ", $vInterests);
                }
            }
          } catch (PDOException $e) {
@@ -30,7 +31,7 @@
 
 
          try{
-           $STH = $DBH->prepare("SELECT * FROM constituents WHERE Interests LIKE %$vInterests%");
+           $STH = $DBH->prepare("SELECT * FROM constituents WHERE Interests LIKE '%$vInts%'");
            $STH->setFetchMode(PDO::FETCH_OBJ);
            $STH->execute();
            if($STH->rowCount() > 0) {
@@ -47,5 +48,8 @@
          }
 
          print_r($cName);
+
+
+         echo 'vInts test: ' . $vInts;
 //         $array[] = new array('~' => '~');    	//print array($results,$results2);   	//var $jsonArray = ["array" => array($results,$results2)]; 	 	//echo json_encode(array($results,$results2));   	echo json_encode(array_merge($results,$results2));  die();    mysql_close();
 ?>
