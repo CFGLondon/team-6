@@ -7,7 +7,7 @@
   $daysArray[] = $_REQUEST['days'];  //Need to decide how elements will be stored in the database
 
   $host = 'ec2-54-78-38-127.eu-west-1.compute.amazonaws.com'
-  $username = 'ubuntu'
+  $username = 'root'
   $password = 'code4good'
 
   $db = new mysqli($host,$username,$password);
