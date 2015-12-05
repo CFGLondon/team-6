@@ -17,13 +17,13 @@ public class Volunteers {
         if(!contains) {
             VolunteersArray.add(volunteer);
         }
-        Log.d("number of elderlies", VolunteersArray.size() + "");
+        Log.d("number of Volunteers", VolunteersArray.size() + "");
     }
 
     public static void isVolunteersExist(Volunteer volunteer){
-        for(Volunteer VolunteerliesItem : VolunteersArray) {
-            if (VolunteerliesItem.getName().equals(volunteer.getName()) && VolunteerliesItem.getGender().equals(volunteer.getGender())
-                    && VolunteerliesItem.getAge() == volunteer.getAge()) {
+        for(Volunteer volunteerliesItem : VolunteersArray) {
+            if (volunteerliesItem.getName().equals(volunteer.getName()) && volunteerliesItem.getGender().equals(volunteer.getGender())
+                    && volunteerliesItem.getAge() == volunteer.getAge()) {
                 contains = true;
                 break;
             }
