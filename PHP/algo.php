@@ -27,7 +27,7 @@
            exit;
          }
 
-         $vInts = implode(" OR Interests LIKE ", explode(", ", $vInterests));
+         $vInts = implode("' OR Interests LIKE '", explode(", ", $vInterests));
 
          try{
            $STH = $DBH->prepare("SELECT * FROM constituents WHERE Interests LIKE '%$vInts%'");
