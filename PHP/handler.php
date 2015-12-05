@@ -10,7 +10,7 @@
 //  $daysArray[] = $_POST['days'];  //Need to decide how elements will be stored in the database
 
   try {
-      $host = 'http://ec2-54-78-38-127.eu-west-1.compute.amazonaws.com';
+      $host = 'ec2-54-78-38-127.eu-west-1.compute.amazonaws.com';
       $dbname = "Team6";
       $user = 'root';
       $pass = 'code4good';
@@ -32,7 +32,7 @@
       $STH->bindParam(':Black', $black);
       $STH->bindParam(':White', $white);
 
-      $username = $_POST['name'];
+      $username = $_POST['username'];
       $password = $_POST['password'];
       $address = $_POST['address'];
       $interests = $_POST['interests'];
@@ -47,7 +47,7 @@
 
   } catch (PDOException $e) {
         echo "Error submitting info to database";
-//        file_put_contents('PDOErrors.txt', $e->getMessage(), FILE_APPEND);
+        echo $e->getMessage();
         exit;
   }
 
