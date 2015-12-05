@@ -40,7 +40,7 @@ if ($check == 1) {
 
     if ($row == 0)
     {
-        header( "Location: addentry.html");
+        header( "Location: dashboard.html");
     }
     else {
         header("location: dashboard.php");

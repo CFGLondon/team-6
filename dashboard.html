@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add an Entry!</title>
+    <link href="css/addentry.css" rel="stylesheet" type="text/css" >
+</head>
+<body>
+
+<div class="Title" >
+    <h1>Add an entry to Lorelle Reid's Blog!</h1>
+    <p>Enter a title and body for your blog entry.
+        In the body you can use simple HTML formatting elements,
+        such as &lt;b&gt; (bold) and &lt;i&gt; (italic) as well as the hyperlink "anchor" element &lt;a&gt;.
+    </p>
+</div>
+
+<form method="post" action="addentry.php" onreset="return confirm('Are You Sure?')">
+
+    <p>
+        <label for="month"><strong>Date: </strong>
+            <select name="month" id="month">
+                <option value="Month">Month</option>
+                <option value="January">January</option>
+                <option value="February">February</option>
+                <option value="March">March</option>
+                <option value="April">April</option>
+                <option value="May">May</option>
+                <option value="June">June</option>
+                <option value="July">July</option>
+                <option value="August">August</option>
+                <option value="September">September</option>
+                <option value="October">October</option>
+                <option value="November">November</option>
+                <option value="December">December</option>
+            </select>
+        </label>
+
+        <input type="text" name="date" id="date" size="2" />
+
+        <select name="year" id="year">
+            <option value="2013">2013</option>
+            <option value="2012">2012</option>
+            <option value="2011">2011</option>
+            <option value="2010">2010</option>
+            <option value="2009">2009</option>
+            <option value="2008">2008</option>
+            <option value="2007">2007</option>
+            <option value="2006">2006</option>
+            <option value="2005">2005</option>
+            <option value="2004">2004</option>
+        </select>
+
+    </p>
+
+    <p>
+        <label for="title"><strong>Title: </strong>
+            <input type="text" name="title" id="title" size="40" />
+        </label>
+    </p>
+    <p>
+        <textarea cols="80" rows="20" name="entry" id="entry"></textarea></p>
+    <p>
+        <input type="submit" name="submit" id="submit" value="Submit">
+        <input type="reset" name="clear" id="clear" value="Clear" >
+    </p>
+
+</form>
+
+</body>
+</html>
